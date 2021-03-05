@@ -6,12 +6,16 @@ if [ -z "$ANDROID_HOME" ]; then
   fi
 fi
 
-if [ -f "$ANDROID_HOME/ndk-bundle/source.properties" ]; then
-  export NDK=$ANDROID_HOME/ndk-bundle
-else
-  export NDK=$ANDROID_HOME/ndk/21.3.6528147
+_NDK="$ANDROID_HOME/ndk/21.3.6528147"
+[ -f "$_NDK/source.properties" ] || _NDK="$ANDROID_NDK_HOME"
+[ -f "$_NDK/source.properties" ] || _NDK="$NDK"
+[ -f "$_NDK/source.properties" ] || _NDK="$ANDROID_HOME/ndk-bundle"
+
+if [ ! -f "$_NDK/source.properties" ]; then
+  exho "Error: NDK not found."
+  exit 1
 fi
 
-export ANDROID_NDK_HOME=$NDK
-
+export ANDROID_NDK_HOME=$_NDK
+export NDK=$_NDK
 export PROJECT=$(realpath .)

@@ -282,4 +282,5 @@
     <string name="ConfirmSettings">Xác nhận</string>
     <string name="labelChannelUser">Người dùng nhãn kênh</string>
     <string name="InteractionSettings">Tương tác</string>
+    <string name="nekoxPremiumGiftRemoved">Quà tặng cao cấp đã bị loại bỏ trong NekoX.</string>
 </resources>

@@ -21,4 +21,14 @@
     <string name="DeleteAllFromSelfAlert">Папярэджанне! Гэта прывядзе да **выдалення ўсіх вашых паведамленняў** у гэтым чаце для **ўсіх** удзельнікаў.</string>
     <string name="DeleteDownloadedFile">Выдаліць спампаваны файл</string>
     <string name="TestBackendOn">Гэты ўліковы запіс падключыцца да тэставага серверу.</string>
+    <string name="BotLogin">Увайсці як робат</string>
+    <string name="InvalidAccessToken">Некарэктны access token</string>
+    <string name="NameOrder">Парадак імён</string>
+    <string name="FirstLast">Па імені</string>
+    <string name="Repeat">Паўтарыць</string>
+    <string name="LastFirst">Па фаміліі</string>
+    <string name="NoQuoteForward">Пераслаць без цытавання</string>
+    <string name="Prpr">Peropero</string>
+    <string name="CreateMention">Упамянуць</string>
+    <string name="TransparentStatusBar">Празрысты статус бар</string>
 </resources>

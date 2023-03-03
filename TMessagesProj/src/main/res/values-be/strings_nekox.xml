@@ -5,4 +5,14 @@
     <string name="ChatAttachEnterMenuRecordVideo">Запіс відэа</string>
     <string name="Locked">Зачынены</string>
     <string name="ChatAttachEnterMenuDisableLinkPreview">Адключыць папярэдні прагляд спасылак</string>
+    <string name="Install">Усталяваць</string>
+    <string name="LinkedGroupChat">Звязаная група</string>
+    <string name="DevModeNotice">Мы не нясём адказнасці за любое незалежнае выкарыстанне функцый распрацоўніка.</string>
+    <string name="DisableLinkPreviewByDefault">Адключыць папярэдні перагляд спасылак па змаўчанні</string>
+    <string name="UseChatAttachEnterMenuNotice">Змяніць кнопку запісу на меню ўводу і дадаць пераключальнік папярэдняга перагляду спасылак.</string>
+    <string name="LinkedChannelChat">Звязаны канал</string>
+    <string name="UpdateDownloaded">Абнаўленне толькі што спампавалась.</string>
+    <string name="ProxyAutoSwitch">Аўтаматычнае пераключэнне проксі</string>
+    <string name="DevModeTitle">**Ваш акаўнт Telegram можа быць забанены**</string>
+    <string name="Ignore">Ігнараваць</string>
 </resources>

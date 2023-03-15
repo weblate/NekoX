@@ -41,7 +41,7 @@
     <string name="HideProxySponsorChannel">隐藏代理赞助商频道</string>
     <string name="ViewHistory">显示历史消息</string>
     <string name="Nya">喵！</string>
-    <string name="SaveCacheToExternalFilesDir">存储隔离</string>
+    <string name="SaveCacheToExternalFilesDir">存储空间隔离</string>
     <string name="SaveCacheToExternalFilesDirAbout">保存 \"Telegram\" 文件夹到应用特定的目录，以保持共享存储空间整洁。</string>
     <string name="SensitiveDisableFiltering">禁用敏感内容过滤</string>
     <string name="SensitiveAbout">在您所有设备上显示公共频道中的敏感媒体内容。</string>

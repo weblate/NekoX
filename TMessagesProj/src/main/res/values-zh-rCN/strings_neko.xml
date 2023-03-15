@@ -81,7 +81,7 @@
     <string name="TabTitleTypeTip">图标由 Telegram 云同步。</string>
     <string name="TabTitleTypeText">标题</string>
     <string name="TabTitleTypeIcon">图标</string>
-    <string name="TabTitleTypeMix">图标与标题</string>
+    <string name="TabTitleTypeMix">含标题的图标</string>
     <string name="ConfirmAVMessage">发送视频/语音留言前确认</string>
     <string name="AskBeforeCalling">呼叫前确认</string>
     <string name="ConfirmCall">确认呼叫</string>

@@ -115,10 +115,10 @@
     <string name="ProxyDelete">Удалить прокси</string>
     <string name="ProxyInfoVmess">Настройки VMess-прокси</string>
     <string name="VmessUserId">User Id</string>
-    <string name="VmessAlterId">Alter ID</string>
+    <string name="VmessAlterId">Изменить идентификатор</string>
     <string name="VmessSecurity">Безопасность</string>
     <string name="VmessNetwork">Сеть</string>
-    <string name="VmessHeadType">Head Type</string>
+    <string name="VmessHeadType">Тип заголовка</string>
     <string name="VmessRequestHost">Request Host / QUIC Security</string>
     <string name="VmessPath">Путь / Ключ QUIC</string>
     <string name="VmessTls">Использовать TLS</string>

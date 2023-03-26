@@ -15,4 +15,45 @@
     <string name="ProxyAutoSwitch">Аўтаматычнае пераключэнне проксі</string>
     <string name="DevModeTitle">**Ваш акаўнт Telegram можа быць забанены**</string>
     <string name="Ignore">Ігнараваць</string>
+    <string name="repeatConfirm">Спытайце перад паўторам</string>
+    <string name="CheckUpdate">Праверыць абнаўленне</string>
+    <string name="UpdateUpdate">Абнаўленне</string>
+    <string name="ChatAttachEnterMenuEnableLinkPreview">Уключыць папярэдні прагляд спасылак</string>
+    <string name="NoUpdate">Абнаўленне не знойдзена</string>
+    <string name="GoogleCloudTransKey">Ключ Google Cloud Translate</string>
+    <string name="TransToLang">Мова перакладу</string>
+    <string name="More">Больш</string>
+    <string name="CustomApi">Карыстацкі API</string>
+    <string name="CustomBackendProduction">Афіцыйны вытворчы цэнтр апрацоўкі дадзеных</string>
+    <string name="CustomApiNo">Не выкарыстоўвайце карыстацкі API</string>
+    <string name="CustomApiOfficial">Тэлеграм на андроід</string>
+    <string name="TransInputToLang">Мова ўводу перакладу</string>
+    <string name="PlaceHolder">Запаўняльнік - калі ласка, адключыце</string>
+    <string name="UpdateAvailable">Даступна новае абнаўленне</string>
+    <string name="showSeconds">Паказаць метку часу ў секундах</string>
+    <string name="CustomApiInput">Ручной увод</string>
+    <string name="ProviderYandexTranslate">Яндэкс.Перакладчык</string>
+    <string name="repeatConfirmText">Вы ўпэўненыя, што паўторыце\?</string>
+    <string name="valuesLargeAvatarInDrawer">Тэлеграма па змаўчанні
+\n Аватар як фон
+\n Вялікі аватар як фон</string>
+    <string name="CustomBackendTestDC">Афіцыйны тэставы цэнтр апрацоўкі дадзеных</string>
+    <string name="UseChatAttachEnterMenu">Выкарыстоўвайце меню ўводу</string>
+    <string name="UpdateLater">Пазней</string>
+    <string name="DownloadFailed">Памылка спампоўкі</string>
+    <string name="CustomBackend">Карыстальніцкі бэкэнд</string>
+    <string name="AllowFlashCall">Міргаць ліхтарыкам пры выкліку</string>
+    <string name="DisableInstantCamera">Адключыць імгненную камеру</string>
+    <string name="DisableLinkPreviewByDefaultNotice">Па змаўчанні адключыце запыт папярэдняга прагляду спасылкі падчас уводу, каб сервер не даведаўся, што спасылка распаўсюджваецца праз Telegram.</string>
+    <string name="UseCustomApiNotice">Увайдзіце з дапамогай карыстацкага API, калі вы не можаце зарэгістравацца або ўвайсці, гэта можа дапамагчы.
+\n
+\n Заўвага: fcm не будзе працаваць, калі вы выкарыстоўваеце выпускную версію.</string>
+    <string name="CustomApiTGX">Тэлеграм X на андроід</string>
+    <string name="SwitchVersion">Пераключыць версію</string>
+    <string name="hideSponsoredMessage">Схаваць спонсарскія паведамленні</string>
+    <string name="rememberAllBackMessages">Запомніць усе націснутыя адказы</string>
+    <string name="TapToDisable">Націсніце, каб адключыць. Вам яны не патрэбныя.</string>
+    <string name="CustomBackendNotice">Гэтая функцыя даступная толькі для дасведчаных карыстальнікаў, калі вы не ведаеце, што азначаюць наступныя параметры, проста ігнаруйце яе.</string>
+    <string name="ChangeTranslateProvider">Змяніць пастаўшчыка</string>
+    <string name="GoogleCloudTransKeyNotice">Калі вы наладжваеце ключ Google Cloud Translate, пры перакладзе будзе выклікацца API воблачнага перакладу, а не адпраўка фальшывай формы ў вэб-версію (гэта больш хутка, стабільна і з эканоміяй трафіку).</string>
 </resources>

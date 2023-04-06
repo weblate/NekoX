@@ -12,7 +12,7 @@
     <string name="CustomApiInput">pana kepeken luka</string>
     <string name="CustomApiNo">sina o kepeken ala e ilo API ante</string>
     <string name="CheckUpdate">o lukin e sin</string>
-    <string name="SwitchVersion">o ante e sin nanpa</string>
+    <string name="SwitchVersion">o ante e ante ilo</string>
     <string name="NoUpdate">mi ken ala lukin e sin</string>
     <string name="UpdateAvailable">sin li lon</string>
     <string name="UpdateUpdate">sin</string>
@@ -20,7 +20,7 @@
     <string name="DownloadFailed">kama jo ilo li pakala</string>
     <string name="Install">pana ilo</string>
     <string name="Ignore">o weka</string>
-    <string name="UpdateDownloaded">sin li pini kama jo ilo</string>
+    <string name="UpdateDownloaded">sin li pini kama jo ilo.</string>
     <string name="ProxyAutoSwitch">ilo ante sipi Proxy</string>
     <string name="LinkedGroupChat">kulupu sama</string>
     <string name="LinkedChannelChat">tomo sama</string>
@@ -53,7 +53,7 @@
     <string name="FilterNameContacts">jan nanpa</string>
     <string name="FilterNameContactsDescription">toki taso tan jan wawa</string>
     <string name="FilterNameGroups">kulupu</string>
-    <string name="PrivacyNotice2fa">sina pana ala e len Password. ni la, jan nasa pi ma lawa li ken sona e jan lon sina. sina o pana e ona!</string>
+    <string name="PrivacyNotice2fa">sina pana ala e len toki. ni la, jan nasa pi ma lawa li ken sona e jan lon sina. sina o pana e ona!</string>
     <string name="FilterNameGroupsDescription">toki taso tan toki kulupu</string>
     <string name="FilterNameChannels">tomo</string>
     <string name="FilterNameChannelsDescription">toki taso tan tomo</string>
@@ -92,9 +92,9 @@
     <string name="ShareProxy">o sama e Proxy</string>
     <string name="ProxyDelete">o weka e Proxy</string>
     <string name="VmessUserId">ID jan kepeken</string>
-    <string name="VmessAlterId">ID jan ante</string>
+    <string name="VmessAlterId">ID ante</string>
     <string name="VmessSecurity">sona wawa</string>
-    <string name="VmessNetwork">len sona</string>
+    <string name="VmessNetwork">linja sona</string>
     <string name="VmessRequestHost">o pana e wile Host / QUIC Security</string>
     <string name="VmessPath">ijo Key Path / QUIC</string>
     <string name="VmessTls">o kepeken e ilo TLS</string>
@@ -102,8 +102,8 @@
     <string name="SSPluginOpts">nasin ante pi ilo Plugin</string>
     <string name="ProxyInfoSSR">tomo ante pi ilo ShadowsocksR Proxy</string>
     <string name="SSRProtocol">nasin Protocol</string>
-    <string name="SSRProtocolParams">sona pi nasin Protocol</string>
-    <string name="SSRObfs">ijo Obf</string>
+    <string name="SSRProtocolParams">sona Parameter pi nasin Protocol</string>
+    <string name="SSRObfs">Obfs</string>
     <string name="SSRObfsParam">sona pi ijo Obf</string>
     <string name="ProxyInfoTrojan">tomo ante pu ilo Trojan Proxy</string>
     <string name="TrojanSNI">ilo SNI (wile taso)</string>
@@ -112,14 +112,14 @@
     <string name="ImportProxyList">o pana e ilo poki Proxy</string>
     <string name="ProxySubscription">wile jo Proxy</string>
     <string name="ProxySubDetails">sona pi wile jo</string>
-    <string name="SubscriptionUrls">linku URL</string>
+    <string name="SubscriptionUrls">URL</string>
     <string name="ExportStickers">o kama jo e sitelen lili</string>
-    <string name="ImportProxies">o pana e ilo poki tan ijo File</string>
-    <string name="ExportProxies">o tawa e ilo poki tawa ijo File</string>
+    <string name="ImportProxies">o pana e ilo poki tan ijo ilo</string>
+    <string name="ExportProxies">o tawa e ilo poki tawa ijo ilo</string>
     <string name="ImportStickersList">o kama jo e sitelen lili</string>
     <string name="StickerSets">poki pi sitelen lili</string>
-    <string name="InvalidStickersFile">ijo File pi sitelen lili pona ala:</string>
-    <string name="InvalidProxyFile">ijo File pi lipu ilo Proxy pona ala:</string>
+    <string name="InvalidStickersFile">ijo ilo pi sitelen lili pona ala:</string>
+    <string name="InvalidProxyFile">ijo ilo pi lipu ilo Proxy pona ala:</string>
     <string name="ImportedProxies">ilo poki Proxy pana pini:</string>
     <string name="DeleteAllServer">o weka e ilo poki ale</string>
     <string name="DeleteUnavailableServer">o weka e ilo poki ken ala</string>
@@ -164,7 +164,7 @@
     <string name="DisableLinkPreviewByDefaultNotice">ante ala la, pini e wile pi sitelen linku lon pana tawa ni: ilo poki li sona ala e ni: linku li pana lon ilo Telegram.</string>
     <string name="UseCustomApiNotice">sina tawa lon ilo kepeken ilo API ante. sina ken ala pali jan ilo li ken ala tawa lon ilo la, ni li pona.
 \n
-\no sona: sina kepeken e ilo pana lon la, fcm li pali ala.</string>
+\no sona: sina kepeken e ilo pana pini la, fcm li pali ala.</string>
     <string name="ProviderYandexTranslate">Yandex.Translate</string>
     <string name="CustomBackendProduction">Official Production Datacenter</string>
     <string name="GoogleCloudTransKeyNotice">sina pana e ante toki Key Google Cloud la, mi kepeken e ilo API pi ante toki Cloud li pana ala e lipu lon ala tawa ante ilo Web lon ante toki (ni li pali tenpo lili li wawa li wawa e nasin).</string>
@@ -186,7 +186,7 @@
     <string name="RetestPing">o lukin sike e nanpa Ping lon ilo poki ale</string>
     <string name="SubscriptionDelete">o weka e wile jo</string>
     <string name="SubscriptionUpdating">mi sin e wile jo</string>
-    <string name="ImportStickersX">o kama jo e sitelen lili tan ijo File</string>
+    <string name="ImportStickersX">o pana e sitelen lili tan ijo ilo</string>
     <string name="ErrorsInImport">pana e pakala:</string>
     <string name="MiniVersionAlert">ante Mini li ken ala e ilo Proxy ni. o ante e ante ilo lon tomo ante.</string>
     <string name="NoProxy">sina pana ala e ilo poki Proxy.</string>
@@ -198,4 +198,84 @@
     <string name="SendCommentAfterForward">pana toki lon pana pini</string>
     <string name="UnpinMessageX">o lawa ala e toki</string>
     <string name="StorageResetInfo">sona App ale li weka lon tenpo ale (lon ni: jan li wile tawa weka tan jan ilo ale).</string>
+    <string name="CCTC">sitelen Sonko pi tenpo pini</string>
+    <string name="CCHK">sitelen Sonko pi tenpo pini (ma Honkon)</string>
+    <string name="CCTT">sitelen sonko pi tenpo pini (ma Tawan)</string>
+    <string name="CCSC">sitelen Sonko pona</string>
+    <string name="CCSP">sitelen Sonko pona (ma Sonko)</string>
+    <string name="CCJP">sitelen Nijon Kanji sin (sitelen Shinjitai)</string>
+    <string name="AcceptSecretChat">o jo e toki len</string>
+    <string name="TabletMode">nasin ilo Tablet</string>
+    <string name="TabletModeDefault">ni li sama ilo</string>
+    <string name="TextOrigin">mama</string>
+    <string name="TextReplace">o ante</string>
+    <string name="ArchiveFiles">ijo ilo wawa</string>
+    <string name="Win32ExecutableFiles">ijo ilo Executable Win32</string>
+    <string name="EnableStickerPin">o open e lawa sitelen lili</string>
+    <string name="EnableStickerPinTip">ilo ni li kama pali pini. ni li ken pakala: sina sama poki Cloud.</string>
+    <string name="AutoDownload">kama jo ilo sipi</string>
+    <string name="PinSticker">o lawa</string>
+    <string name="UnpinSticker">o lawa ala</string>
+    <string name="SetPinnedSuffix">(lawa)</string>
+    <string name="UsePersiancalendar">o kepeken e nasin tenpo pi ma Pasi</string>
+    <string name="UsePersiancalendarInfo">o sitelen e tenpo kepeken nasin tenpo suno Hijri</string>
+    <string name="AddProxyWs">o pana e ilo WebSocket Relay</string>
+    <string name="ProxyInfoWS">tomo ante pi ilo WebSocket Relay</string>
+    <string name="DisplayPersianCalendarByLatin">o sitelen e nasin tenpo Pasi kepeken sitelen Lasina</string>
+    <string name="WsPayload">ijo ilo lon</string>
+    <string name="AutoLockImmediately">lon tenpo lili</string>
+    <string name="VersionUpdateConfirm">SIN</string>
+    <string name="VersionUpdateIgnore">o weka</string>
+    <string name="VersionUpdateNotNow">tenpo ni ala</string>
+    <string name="VersionUpdateNoUpdate">sin li lon ala.</string>
+    <string name="AutoCheckUpdateOFF">pini</string>
+    <string name="AutoCheckUpdateSwitch">sin sipi</string>
+    <string name="AutoCheckUpdateStable">wawa</string>
+    <string name="AutoCheckUpdateRc">pana lili</string>
+    <string name="AutoCheckUpdatePreview">sitelen (wawa ala)</string>
+    <string name="unreadBadgeOnBackButton">sitelen pi moku toki pini ala lon ilo weka</string>
+    <string name="VersionUpdateTitle">ante ilo sin li lon</string>
+    <string name="DeleteDownloadedFileConfirm">o weka ala weka e ijo ilo ni tan tomo cache local\?</string>
+    <string name="DeleteDownloadedFileSucceed">weka</string>
+    <string name="DeleteDownloadedFileExternal">mi pali ala tawa ijo ilo selo.</string>
+    <string name="update_download_soucre">o wile e mama pi kama jo ilo</string>
+    <string name="useCustomEmoji">o kepeken e sitelen Emoji ante</string>
+    <string name="repeatConfirm">o kute lon sike</string>
+    <string name="repeatConfirmText">sina wile ala wile e sike\?</string>
+    <string name="valuesLargeAvatarInDrawer">ilo Telegram ante ala
+\nmonsi kepeken sitelen jan
+\nmonsi kepeken sitelen jan suli</string>
+    <string name="hideSponsoredMessage">o len e toki namako</string>
+    <string name="rememberAllBackMessages">o sona e toki luka</string>
+    <string name="DisableInstantCamera">o pini e ilo sitelen pi tenpo lili</string>
+    <string name="showSeconds">o pana e tenpo kepeken tenpo Second</string>
+    <string name="NekoXUpdateTranslationHint">o luka tawa ni: o ante toki e lipu ante</string>
+    <string name="Name">nimi</string>
+    <string name="channelAlias">nimi ante tomo</string>
+    <string name="setChannelAliasName">o pana e nimi</string>
+    <string name="labelChannelUserDetails">jan pana li \"tomo\" la, ona li nimi \"tomo\".</string>
+    <string name="StickerSettings">sitelen lili</string>
+    <string name="ConfirmSettings">sona lon</string>
+    <string name="InteractionSettings">luka</string>
+    <string name="nekoxPremiumGiftRemoved">pana namako Premium li weka lon ilo NekoX.</string>
+    <string name="ImportSettings">o pana e ante</string>
+    <string name="ImportSettingsAlert">o ante ala ante sewi e ante\?
+\njan li pana e ante tan mama sona ala la lawa li ken ante sewi e ona. ilo li pini e ona.</string>
+    <string name="nekoXPaymentRemovedToast">ilo esun li weka.</string>
+    <string name="VersionUpdateVariantNotMatch">mi ken ala sama e ante ilo ante.
+\no kama jo ilo kepeken ilo Github.</string>
+    <string name="customPublicProxyIP">o pana e IP pi ilo Proxy len ala</string>
+    <string name="customPublicProxyIPNotice">poki CDN (e.g. Cloudflare) li ken wawa e luka lon ni: tomo li toki e nanpa IP pi Proxy len ala</string>
+    <string name="useCustomEmojiInvalid">ijo ilo ZIP Emoji li pona ala.</string>
+    <string name="AppUpdateNekoX">o sin e ilo Nekogram X</string>
+    <string name="channelAliasDetails">o wile e ni: tomo nimi li open.</string>
+    <string name="labelChannelUser">o pana e nimi pi jan kepeken tomo</string>
+    <string name="UserRestrictionsSendGames">o pana musi</string>
+    <string name="UserRestrictionsSendInline">o pana kepeken ilo Inline Bots</string>
+    <string name="ReplaceText">o ante e toki</string>
+    <string name="ReplaceRegex">o kepeken ilo Regex</string>
+    <string name="AppLinkFDroid">poki ilo F-Droid</string>
+    <string name="EnableStickerPinAbout">o lawa e sitelen lili o sama poki Cloud lon ni kin: sina pana e sitelen lili sin.
+\nni li sama ante ni: o pini e wile e sin.</string>
+    <string name="BackupSettings">ante wawa</string>
 </resources>

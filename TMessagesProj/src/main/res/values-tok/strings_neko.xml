@@ -1,2 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="NekoSettings">ante Neko</string>
+    <string name="MessageMenu">tomo toki</string>
+    <string name="HidePhone">o len e nanpa ilo mi</string>
+    <string name="DeleteAllFromSelf">o weka e ale tan sina</string>
+    <string name="InvalidAccessToken">toki luka li pona ala</string>
+    <string name="BotLogin">tawa insa pi jan ilo</string>
+    <string name="IPv6">mi linja tawa nanpa IPv6</string>
+    <string name="DeleteAllFromSelfAlert">o sona! ni li **weka e toki ale tan sina** lon toki ni tawa jan **ale**.</string>
+</resources>

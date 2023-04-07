@@ -222,7 +222,7 @@
     <string name="AddProxyWs">o pana e ilo WebSocket Relay</string>
     <string name="ProxyInfoWS">tomo ante pi ilo WebSocket Relay</string>
     <string name="DisplayPersianCalendarByLatin">o sitelen e nasin tenpo Pasi kepeken sitelen Lasina</string>
-    <string name="WsPayload">ijo ilo lon</string>
+    <string name="WsPayload">ijo Payload</string>
     <string name="AutoLockImmediately">lon tenpo lili</string>
     <string name="VersionUpdateConfirm">SIN</string>
     <string name="VersionUpdateIgnore">o weka</string>

@@ -31,7 +31,7 @@
     <string name="Christmas">tenpo Yule</string>
     <string name="Valentine">tenpo Valentine</string>
     <string name="Snowflakes">lipu lete</string>
-    <string name="DeleteDownloadedFile">o weka e ijo ilo pi kama jo pini</string>
+    <string name="DeleteDownloadedFile">o weka e ijo ilo pi poki pini</string>
     <string name="TestBackend">ilo monsi lukin</string>
     <string name="ViewHistory">o lukin e pini</string>
     <string name="SaveCacheToExternalFilesDir">poki poki</string>
@@ -44,7 +44,7 @@
     <string name="Experiment">lukin taso</string>
     <string name="UnlimitedFavoredStickersAbout">o pana e sitelen lili pini ala tawa wile. sitelen lili li ken ala sama ilo ante.</string>
     <string name="MessageDetails">sona lili</string>
-    <string name="ExportAsJson">o jo e ijo JSON</string>
+    <string name="ExportAsJson">o tawa poki sama ijo JSON</string>
     <string name="Translate">ante toki</string>
     <string name="DeleteAccount">o weka e jan ilo Telegram</string>
     <string name="TranslateFailed">o ante toki e pakala ilo poki</string>
@@ -98,9 +98,9 @@
     <string name="disableRemoteEmojiInteractions">o pini e luka pi sitelen Emoji tan ma ante</string>
     <string name="enablePublicProxy">ilo Proxy jan ale NekoX</string>
     <string name="autoUpdateSubInfo">o sin sipi e ilo Proxy</string>
-    <string name="SaveToDownloadCount_two">mi jo wawa e ijo ilo %1$d tawa tomo kama jo</string>
-    <string name="SaveToDownloadCount_few">mi jo wawa e ijo ilo %1$d tawa tomo kama jo</string>
-    <string name="SaveToDownloadCount_other">mi jo wawa e ijo ilo %1$d tawa tomo kama jo</string>
+    <string name="SaveToDownloadCount_two">mi poki e ijo ilo %1$d tawa tomo poki</string>
+    <string name="SaveToDownloadCount_few">mi poki e ijo ilo %1$d tawa tomo poki</string>
+    <string name="SaveToDownloadCount_other">mi poki e ijo ilo %1$d tawa tomo poki</string>
     <string name="disableNotificationBubbles">o pini e sike lon sona sin</string>
     <string name="reactions">pilin lon tomo</string>
     <string name="doubleTapShowReactions">o sitelen e pilin lon luka tu taso</string>
@@ -111,7 +111,7 @@
     <string name="forceBlurInChat">tenpo ale la, o open e len lili toki</string>
     <string name="ChatBlurAlphaValue">len lili toki Alpha</string>
     <string name="disablePremiumStickerAnimation">o pini e tawa pi sitelen lili namako Premium</string>
-    <string name="enhancedFileLoader">o pona e tenpo kama jo</string>
+    <string name="enhancedFileLoader">o pona e tenpo poki ilo</string>
     <string name="mapDriftingFixForGoogleMaps">o pona e lipu ma Google tawa ni: ona li tawa lon ma Sonko</string>
     <string name="useOSMDroidMap">o kepeken e lipu ma OSMDroid</string>
     <string name="AddToSavedMessages">o poki e toki</string>
@@ -137,13 +137,13 @@
     <string name="AutoPauseVideoAbout">lon tomo open/ante monsi.</string>
     <string name="HideTimeForSticker">o len e tenpo lon sitelen lili</string>
     <string name="UseMediaStreamInVoip">o kepeken e linja sitelen lon linja VoIP</string>
-    <string name="SaveToDownloadCount_one">mi poki e ijo ilo %1$d tawa tomo poki ilo</string>
+    <string name="SaveToDownloadCount_one">mi poki e ijo ilo %1$d tawa tomo poki</string>
     <string name="showSpoilersDirectly">o sitelen e toki len</string>
     <string name="hideSendAsChannel">o len e ni: o pana sama tomo</string>
     <string name="customGroupVoipAudioBitrate">ijo Bitrate pi kalama pi VoIP kulupu</string>
     <string name="disableChoosingSticker">o pana kepeken toki li luka ala e sitelen lili</string>
-    <string name="SaveToDownloadCount_many">mi jo wawa e ijo ilo %1$d tawa tomo kama jo</string>
-    <string name="SaveToDownloadCount_zero">mi poki e ijo file %1$d tawa tomo poki ilo</string>
+    <string name="SaveToDownloadCount_many">mi poki e ijo ilo %1$d tawa tomo poki</string>
+    <string name="SaveToDownloadCount_zero">mi poki e ijo file %1$d tawa tomo poki</string>
     <string name="doubleTapSendReactions">o pana e pilin lon luka tu (ante ala)</string>
     <string name="NekoGeneralNotification">sona sin</string>
     <string name="ReactionsDisabled">o pini</string>

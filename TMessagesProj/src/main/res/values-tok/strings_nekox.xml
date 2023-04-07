@@ -175,7 +175,7 @@
     <string name="FilterNameUnreadDescription">moku toki ala taso</string>
     <string name="SortByUnread">pona kepeken moku toki ala</string>
     <string name="EnablePushAlert">o open NekoX Push Service</string>
-    <string name="UseProxyItem">o kepeken e ijo poka Proxy li kepeken ala e ilo luka</string>
+    <string name="UseProxyItem">o kepeken e ijo Proxy lon tomo poka li kepeken ala e ilo luka</string>
     <string name="HideProxyByDefault">o len e tomo ante Proxy lon ante ala</string>
     <string name="ProxyTypeVmess">VMess Proxy</string>
     <string name="UnblockAllWarn">sina wile ala wile e ni: sina len e **jan kepeken ale e jan ilo**\?</string>
@@ -209,7 +209,7 @@
     <string name="TabletModeDefault">ni li sama ilo</string>
     <string name="TextOrigin">mama</string>
     <string name="TextReplace">o ante</string>
-    <string name="ArchiveFiles">ijo ilo wawa</string>
+    <string name="ArchiveFiles">o jo wawa e ijo ilo</string>
     <string name="Win32ExecutableFiles">ijo ilo Executable Win32</string>
     <string name="EnableStickerPin">o open e lawa sitelen lili</string>
     <string name="EnableStickerPinTip">ilo ni li kama pali pini. ni li ken pakala: sina sama poki Cloud.</string>

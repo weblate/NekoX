@@ -114,7 +114,7 @@
     <string name="enhancedFileLoader">o pona e tenpo kama jo</string>
     <string name="mapDriftingFixForGoogleMaps">o pona e lipu ma Google tawa ni: ona li tawa lon ma Sonko</string>
     <string name="useOSMDroidMap">o kepeken e lipu ma OSMDroid</string>
-    <string name="AddToSavedMessages">o jo e toki</string>
+    <string name="AddToSavedMessages">o poki e toki</string>
     <string name="TestBackendOn">jan ilo ni li linja tawa ilo lukin monsi.</string>
     <string name="Fireworks">pakala suno</string>
     <string name="TestBackendOff">jan ilo ni li linja tawa ilo monsi pali.</string>
@@ -137,13 +137,13 @@
     <string name="AutoPauseVideoAbout">lon tomo open/ante monsi.</string>
     <string name="HideTimeForSticker">o len e tenpo lon sitelen lili</string>
     <string name="UseMediaStreamInVoip">o kepeken e linja sitelen lon linja VoIP</string>
-    <string name="SaveToDownloadCount_one">mi jo wawa e ijo ilo %1$d tawa tomo kama jo</string>
+    <string name="SaveToDownloadCount_one">mi poki e ijo ilo %1$d tawa tomo poki ilo</string>
     <string name="showSpoilersDirectly">o sitelen e toki len</string>
     <string name="hideSendAsChannel">o len e ni: o pana sama tomo</string>
     <string name="customGroupVoipAudioBitrate">ijo Bitrate pi kalama pi VoIP kulupu</string>
     <string name="disableChoosingSticker">o pana kepeken toki li luka ala e sitelen lili</string>
     <string name="SaveToDownloadCount_many">mi jo wawa e ijo ilo %1$d tawa tomo kama jo</string>
-    <string name="SaveToDownloadCount_zero">mi jo wawa e ijo file %1$d tawa tomo kama jo</string>
+    <string name="SaveToDownloadCount_zero">mi poki e ijo file %1$d tawa tomo poki ilo</string>
     <string name="doubleTapSendReactions">o pana e pilin lon luka tu (ante ala)</string>
     <string name="NekoGeneralNotification">sona sin</string>
     <string name="ReactionsDisabled">o pini</string>

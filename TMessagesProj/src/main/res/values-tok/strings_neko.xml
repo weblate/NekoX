@@ -34,7 +34,7 @@
     <string name="DeleteDownloadedFile">o weka e ijo ilo pi poki pini</string>
     <string name="TestBackend">ilo monsi lukin</string>
     <string name="ViewHistory">o lukin e pini</string>
-    <string name="SaveCacheToExternalFilesDir">poki poki</string>
+    <string name="SaveCacheToExternalFilesDir">poki wan</string>
     <string name="SensitiveDisableFiltering">o pini e len jaki</string>
     <string name="SensitiveAbout">o sitelen e ijo jaki tawa tomo pi jan ale tawa ilo sina ale.</string>
     <string name="StickerSize">suli pi sitelen lili</string>
@@ -105,7 +105,7 @@
     <string name="reactions">pilin lon tomo</string>
     <string name="doubleTapShowReactions">o sitelen e pilin lon luka tu taso</string>
     <string name="customSavePath">linja poki ante</string>
-    <string name="customSavePathHint">o weka tawa poki</string>
+    <string name="customSavePathHint">o weka tawa poki lon ilo Telegram</string>
     <string name="showBottomActionsWhenSelecting">o sitelen e pali anpa lon wile</string>
     <string name="channelLabel">tomo toki</string>
     <string name="forceBlurInChat">tenpo ale la, o open e len lili toki</string>
@@ -138,7 +138,7 @@
     <string name="HideTimeForSticker">o len e tenpo lon sitelen lili</string>
     <string name="UseMediaStreamInVoip">o kepeken e linja sitelen lon linja VoIP</string>
     <string name="SaveToDownloadCount_one">mi poki e ijo ilo %1$d tawa tomo poki</string>
-    <string name="showSpoilersDirectly">o sitelen e toki len</string>
+    <string name="showSpoilersDirectly">o len ala e toki</string>
     <string name="hideSendAsChannel">o len e ni: o pana sama tomo</string>
     <string name="customGroupVoipAudioBitrate">ijo Bitrate pi kalama pi VoIP kulupu</string>
     <string name="disableChoosingSticker">o pana kepeken toki li luka ala e sitelen lili</string>

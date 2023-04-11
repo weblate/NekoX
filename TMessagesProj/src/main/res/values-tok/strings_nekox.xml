@@ -125,13 +125,13 @@
     <string name="DeleteUnavailableServer">o weka e ilo poki ken ala</string>
     <string name="DeleteAllServerConfirm">sina wile ala wile **weka e ilo poki ale**\?</string>
     <string name="DeleteUnavailableServerConfirm">sina wile ala wile **weka e ilo poki ken ala**\?</string>
-    <string name="MinApi21Required">sina o wile e ilo Android 5 (API level 21) lon anpa.</string>
-    <string name="MinApi23Required">sina o wile e ilo Android 6 (API level 23) lon anpa.</string>
+    <string name="MinApi21Required">sina wile e ilo Android 5 (API level 21) lon anpa.</string>
+    <string name="MinApi23Required">sina wile e ilo Android 6 (API level 23) lon anpa.</string>
     <string name="ImportProxyFromClipboard">o tawa pana tan tomo Clipboard</string>
     <string name="BrokenLink">linja pakala / sona ala</string>
     <string name="ShareQRCode">nanpa QR</string>
     <string name="ScanQRCode">o oko e nanpa QR</string>
-    <string name="NoQrFound">mi ken ala lukin e toki QR</string>
+    <string name="NoQrFound">mi ken ala lukin e nanpa QR</string>
     <string name="EnableDeveloperMode">o open e nasin jan pali</string>
     <string name="DisableDeveloperMode">o pini e nasin jan pali</string>
     <string name="DeveloperSettings">tomo ante pi jan pali</string>
@@ -188,7 +188,7 @@
     <string name="SubscriptionUpdating">mi sin e wile jo</string>
     <string name="ImportStickersX">o tawa pana e sitelen lili tan ijo ilo</string>
     <string name="ErrorsInImport">tawa pana li pakala:</string>
-    <string name="MiniVersionAlert">ante Mini li ken ala e ilo Proxy ni. o ante e ante ilo lon tomo ante.</string>
+    <string name="MiniVersionAlert">ante Mini li awen ala e ilo Proxy ni. o ante e ante ilo lon tomo ante.</string>
     <string name="NoProxy">sina pana ala e ilo poki Proxy.</string>
     <string name="LoginSettings">tomo ante pi tawa insa</string>
     <string name="OpenPGPKey">nimi Key OpenPGP</string>

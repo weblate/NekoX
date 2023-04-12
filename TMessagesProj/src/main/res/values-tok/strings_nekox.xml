@@ -147,13 +147,13 @@
     <string name="ShareMyKey">o sama e nimi Key len ala mi</string>
     <string name="DisableVibration">o pini e kalama tawa</string>
     <string name="IgnoreContentRestrictions">o weka e pini lipu</string>
-    <string name="UnpinMessagesAll">o lawa ala e toki ale</string>
+    <string name="UnpinMessagesAll">o weka lawa e toki ale</string>
     <string name="DismissForYourself">o weka tawa sina</string>
     <string name="ImportLogin">tawa insa QR</string>
     <string name="QRLoginNotice">linja QR anu nanpa QR ni li ken e ni: jan li tawa jan sina. ni li pali sina ala sina\?</string>
     <string name="QRLoginConfirm">o sona awen e tawa insa</string>
     <string name="StorageReset">o weka e poki</string>
-    <string name="FCTitle">sin App la</string>
+    <string name="FCTitle">sona sin App</string>
     <string name="FCInfo">o sama ala sama tawa tomo sona tawa tomo sin\?</string>
     <string name="CCTitle">OpenCC (ante toki Sonko)</string>
     <string name="CCTarget">wile</string>
@@ -196,7 +196,7 @@
     <string name="ShareMessages">o sama</string>
     <string name="IgnoreContentRestrictionsNotice">mi weka e pini Play lon toki.</string>
     <string name="SendCommentAfterForward">sina tawa e toki la o pana e toki</string>
-    <string name="UnpinMessageX">o lawa ala e toki</string>
+    <string name="UnpinMessageX">o weka lawa e toki</string>
     <string name="StorageResetInfo">sona App ale li weka lon tenpo ale (lon ni: jan li wile weka tan jan ilo ale).</string>
     <string name="CCTC">sitelen Sonko pi tenpo pini</string>
     <string name="CCHK">sitelen Sonko pi tenpo pini (ma Honkon)</string>

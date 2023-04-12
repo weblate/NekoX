@@ -198,13 +198,13 @@
     <string name="SendCommentAfterForward">sina tawa e toki la o pana e toki</string>
     <string name="UnpinMessageX">o weka lawa e toki</string>
     <string name="StorageResetInfo">sona App ale li weka lon tenpo ale (lon ni: jan li wile weka tan jan ilo ale).</string>
-    <string name="CCTC">sitelen Sonko pi tenpo pini</string>
-    <string name="CCHK">sitelen Sonko pi tenpo pini (ma Honkon)</string>
-    <string name="CCTT">sitelen sonko pi tenpo pini (ma Tawan)</string>
+    <string name="CCTC">sitelen Sonko suli</string>
+    <string name="CCHK">sitelen Sonko suli (ma Honkon)</string>
+    <string name="CCTT">sitelen sonko suli (ma Tawan)</string>
     <string name="CCSC">sitelen Sonko pona</string>
     <string name="CCSP">sitelen Sonko pona (ma Sonko)</string>
-    <string name="CCJP">sitelen Nijon Kanji sin (sitelen Shinjitai)</string>
-    <string name="AcceptSecretChat">o jo e toki len</string>
+    <string name="CCJP">sitelen Kansi sin (sitelen Shinjitai)</string>
+    <string name="AcceptSecretChat">o wile e toki len</string>
     <string name="TabletMode">nasin ilo Tablet</string>
     <string name="TabletModeDefault">ni li sama ilo</string>
     <string name="TextOrigin">mama</string>
@@ -212,10 +212,10 @@
     <string name="ArchiveFiles">o poki wawa e ijo ilo</string>
     <string name="Win32ExecutableFiles">ijo ilo Executable Win32</string>
     <string name="EnableStickerPin">o open e lawa sitelen lili</string>
-    <string name="EnableStickerPinTip">ilo ni li kama pali pini. ni li ken pakala: sina sama poki Cloud.</string>
+    <string name="EnableStickerPinTip">ilo ni li pali pini ala. ni li ken pakala: sina sama poki Cloud.</string>
     <string name="AutoDownload">lanpan ilo sipi</string>
     <string name="PinSticker">o lawa</string>
-    <string name="UnpinSticker">o lawa ala</string>
+    <string name="UnpinSticker">o weka lawa</string>
     <string name="SetPinnedSuffix">(lawa)</string>
     <string name="UsePersiancalendar">o kepeken e nasin tenpo pi ma Pasi</string>
     <string name="UsePersiancalendarInfo">o sitelen e tenpo kepeken nasin tenpo suno Hijri</string>
@@ -224,11 +224,11 @@
     <string name="DisplayPersianCalendarByLatin">o sitelen e nasin tenpo Pasi kepeken sitelen Lasina</string>
     <string name="WsPayload">ijo Payload</string>
     <string name="AutoLockImmediately">lon tenpo lili</string>
-    <string name="VersionUpdateConfirm">SIN</string>
+    <string name="VersionUpdateConfirm">O SIN</string>
     <string name="VersionUpdateIgnore">o weka</string>
     <string name="VersionUpdateNotNow">tenpo ni ala</string>
     <string name="VersionUpdateNoUpdate">sin li lon ala.</string>
-    <string name="AutoCheckUpdateOFF">pini</string>
+    <string name="AutoCheckUpdateOFF">o pini</string>
     <string name="AutoCheckUpdateSwitch">sin sipi</string>
     <string name="AutoCheckUpdateStable">wawa</string>
     <string name="AutoCheckUpdateRc">pana lili</string>
@@ -239,14 +239,14 @@
     <string name="DeleteDownloadedFileSucceed">weka</string>
     <string name="DeleteDownloadedFileExternal">mi pali ala e ijo ilo selo.</string>
     <string name="update_download_soucre">o wile e mama pi lanpan ilo</string>
-    <string name="useCustomEmoji">o kepeken e sitelen Emoji ante</string>
-    <string name="repeatConfirm">o kute lon sike</string>
-    <string name="repeatConfirmText">sina wile ala wile e sike\?</string>
+    <string name="useCustomEmoji">o kepeken e sitelen Emosi ante</string>
+    <string name="repeatConfirm">o kute lon pali sin</string>
+    <string name="repeatConfirmText">sina wile ala wile pali sin\?</string>
     <string name="valuesLargeAvatarInDrawer">ilo Telegram ante ala
 \nmonsi kepeken sitelen jan
 \nmonsi kepeken sitelen jan suli</string>
     <string name="hideSponsoredMessage">o len e toki namako</string>
-    <string name="rememberAllBackMessages">o sona e toki luka</string>
+    <string name="rememberAllBackMessages">o sona e ni ale: sina li luka e toki</string>
     <string name="DisableInstantCamera">o pini e ilo sitelen pi tenpo lili</string>
     <string name="showSeconds">o pana e tenpo kepeken tenpo Second</string>
     <string name="NekoXUpdateTranslationHint">o luka tawa ni: o ante toki e lipu ante</string>
@@ -255,7 +255,7 @@
     <string name="setChannelAliasName">o pana e nimi</string>
     <string name="labelChannelUserDetails">jan pana li \"tomo\" la, ona li nimi \"tomo\".</string>
     <string name="StickerSettings">sitelen lili</string>
-    <string name="ConfirmSettings">sona lon</string>
+    <string name="ConfirmSettings">sona awen</string>
     <string name="InteractionSettings">luka</string>
     <string name="nekoxPremiumGiftRemoved">pana namako Premium li weka lon ilo NekoX.</string>
     <string name="ImportSettings">tomo ante tawa pana</string>
@@ -263,21 +263,21 @@
     <string name="nekoXPaymentRemovedToast">ilo esun li weka.</string>
     <string name="VersionUpdateVariantNotMatch">mi ken ala sama e ante ilo ante.
 \no lanpan ilo kepeken ilo Github.</string>
-    <string name="customPublicProxyIP">o pana e IP pi ilo Proxy len ala</string>
-    <string name="customPublicProxyIPNotice">ma la, sina toki e nanpa IP pi poki CDN Proxy jan ale (e.g. poki Cloudflare) la, sina ken luka lon tenpo lili.</string>
-    <string name="useCustomEmojiInvalid">ijo ilo ZIP Emoji li pona ala.</string>
+    <string name="customPublicProxyIP">o pana e linja IP pi ilo Proxy len ala</string>
+    <string name="customPublicProxyIPNotice">ma la, sina pana e linja IP pi poki CDN Proxy jan ale (e.g. poki Cloudflare) la, sina ken luka lon tenpo lili.</string>
+    <string name="useCustomEmojiInvalid">ijo ilo ZIP Emosi li pona ala.</string>
     <string name="AppUpdateNekoX">o sin e ilo Nekogram X</string>
     <string name="channelAliasDetails">o wile e ni: tomo nimi li open.</string>
     <string name="labelChannelUser">o pana e nimi pi jan kepeken tomo</string>
-    <string name="UserRestrictionsSendGames">o pana musi</string>
-    <string name="UserRestrictionsSendInline">o pana kepeken ilo Inline Bots</string>
+    <string name="UserRestrictionsSendGames">o pana e musi</string>
+    <string name="UserRestrictionsSendInline">o pana kepeken jan ilo Inline</string>
     <string name="ReplaceText">o ante e toki</string>
     <string name="ReplaceRegex">o kepeken ilo Regex</string>
     <string name="AppLinkFDroid">poki ilo F-Droid</string>
     <string name="EnableStickerPinAbout">o lawa e sitelen lili o sama poki Cloud lon ni kin: sina pana e sitelen lili sin.
 \nni li sama ante ni: o pini e wile e sin.</string>
-    <string name="BackupSettings">ante wawa</string>
-    <string name="DisableTrending">o pini e kepeken suli</string>
+    <string name="BackupSettings">ante poki</string>
+    <string name="DisableTrending">o pini e kepeken mute</string>
     <string name="AllowFlashCall">o wile e toki kalama lili</string>
     <string name="VmessHeadType">nasin lawa</string>
 </resources>

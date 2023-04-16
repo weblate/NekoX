@@ -130,7 +130,7 @@
     <string name="ProxyInfoSSR">Настройки ShadowsocksR-прокси</string>
     <string name="SSRProtocol">Протокол</string>
     <string name="SSRProtocolParams">Параметры протокола</string>
-    <string name="SSRObfs">Obfs</string>
+    <string name="SSRObfs">Obfs (обфускация трафика)</string>
     <string name="SSRObfsParam">Параметры Obfs</string>
     <string name="ProxyInfoTrojan">Настройки Trojan-прокси</string>
     <string name="TrojanSNI">SNI (необязательно)</string>

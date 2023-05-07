@@ -10,4 +10,6 @@
     <string name="ImportPxy">ଆମଦାନୀ କରିବା</string>
     <string name="UseDefaultTheme">ଡିଫଲ୍ଟ ଥିମ୍ ଵ୍ୟଵହାର କରିବା *</string>
     <string name="PrivacyNotice">ଗୋପନୀୟତା ଚେତାଵନୀ</string>
+    <string name="ImportProxies">ଫାଇଲ୍‌ରୁ ସର୍ଵର୍ ଆମଦାନୀ କରିବା</string>
+    <string name="ImportProxyList">ପ୍ରକ୍ସୀ ସର୍ଵର୍ ଆମଦାନୀ କରିବା</string>
 </resources>

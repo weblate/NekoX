@@ -165,7 +165,7 @@
     <string name="UseCustomApiNotice">sina insa kepeken ilo API ante. sina ken ala pali e jan li ken ala insa la, ni li pona.
 \n
 \no sona: sina kepeken e ante ilo pini la, ilo FCM li pali ala.</string>
-    <string name="ProviderYandexTranslate">ilo Yandex.Translate</string>
+    <string name="ProviderYandexTranslate">ilo Yandex Translate</string>
     <string name="CustomBackendProduction">tomo pi sona ilo pi pali Official</string>
     <string name="GoogleCloudTransKeyNotice">sina pana e nimi Key ante toki Google Cloud la, mi kepeken e ilo API ante toki Cloud li pana ala e lipu lon ala tawa ante ilo Web lon ante toki (ni li pali tenpo lili li wawa li pona e nasin).</string>
     <string name="FakeScreenshot">sitelen pi pali sitelen</string>

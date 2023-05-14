@@ -27,7 +27,7 @@
     <string name="DownloadFailed">下载失败</string>
     <string name="Install">安装</string>
     <string name="Ignore">忽略</string>
-    <string name="UpdateDownloaded">一个更新刚刚下载完成.</string>
+    <string name="UpdateDownloaded">已下载一项更新。</string>
     <string name="ProxyAutoSwitch">代理自动切换</string>
     <string name="LinkedGroupChat">链接的群组</string>
     <string name="LinkedChannelChat">链接的频道</string>
@@ -41,7 +41,7 @@
     <string name="CustomBackendTestDC">官方测试数据中心</string>
     <string name="AllowFlashCall">允许电话呼叫</string>
     <string name="ChangeTranslateProvider">修改翻译源</string>
-    <string name="ProviderYandexTranslate">Yandex.翻译</string>
+    <string name="ProviderYandexTranslate">Yandex 翻译</string>
     <string name="GoogleCloudTransKey">Google Cloud翻译密钥</string>
     <string name="GoogleCloudTransKeyNotice">如果您设置了一个Google Cloud密钥： 云翻译API将被调用，而不是提交模拟表单到网页版 (更快速、稳定和节省流量)。</string>
     <string name="TransToLang">目标翻译语言</string>

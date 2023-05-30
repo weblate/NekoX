@@ -25,7 +25,7 @@
     <string name="UpdateUpdate">Cập nhật</string>
     <string name="UpdateLater">Để sau</string>
     <string name="DownloadFailed">Tải xuống không thành công</string>
-    <string name="Install">Cài đặt</string>
+    <string name="Install">https://hosted.weblate.org/translate/nekox/nekox/vi/\?checksum=9593fc203fec4232\tInstall</string>
     <string name="Ignore">Phớt lờ</string>
     <string name="UpdateDownloaded">Một bản cập nhật vừa được tải xuống.</string>
     <string name="ProxyAutoSwitch">Proxy tự động bật</string>
@@ -237,9 +237,9 @@
     <string name="AddProxyWs">Thêm WebSocket Replay</string>
     <string name="nekoXPaymentRemovedToast">Chức năng thanh toán đã bị loại bỏ.</string>
     <string name="ImportSettingsAlert">Bạn có chắc chắn muốn ghi đè cài đặt không\? Việc nhập cài đặt từ các nguồn không xác định có thể khiến mã pin bị ghi đè và khiến ứng dụng bị khóa.</string>
-    <string name="ImportSettings">Nhập cài đặt</string>
+    <string name="ImportSettings">Nhập cà“i đặt</string>
     <string name="BackupSettings">Sao lưu cài đặt</string>
-    <string name="AutoLockImmediately">Lập tức</string>
+    <string name="AutoLockImmediately">Immediately</string>
     <string name="AutoCheckUpdateRc">Bản gần hoàn thiện</string>
     <string name="AutoCheckUpdateStable">Ổn định</string>
     <string name="AutoCheckUpdateSwitch">Tự động cập nhật</string>

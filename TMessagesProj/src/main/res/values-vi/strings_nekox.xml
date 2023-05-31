@@ -27,7 +27,7 @@
     <string name="DownloadFailed">Tải xuống không thành công</string>
     <string name="Install">https://hosted.weblate.org/translate/nekox/nekox/vi/\?checksum=9593fc203fec4232\tInstall</string>
     <string name="Ignore">Phớt lờ</string>
-    <string name="UpdateDownloaded">Một bản cập nhật vừa được tải xuống.</string>
+    <string name="UpdateDownloaded">Một bản cập nhật đã được tải xuống.</string>
     <string name="ProxyAutoSwitch">Proxy tự động bật</string>
     <string name="LinkedGroupChat">Nhóm đã liên kết</string>
     <string name="LinkedChannelChat">Kênh đã liên kết</string>

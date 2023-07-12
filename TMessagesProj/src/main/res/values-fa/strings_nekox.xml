@@ -41,7 +41,7 @@
     <string name="CustomBackendTestDC">دیتاسنتر رسمی آزمایشی</string>
     <string name="AllowFlashCall">تماس flash call مجاز شود</string>
     <string name="ChangeTranslateProvider">تغییر خدمات دهنده</string>
-    <string name="ProviderYandexTranslate">ترجمه با موتور Yandex</string>
+    <string name="ProviderYandexTranslate">ترجمه یاندکس</string>
     <string name="GoogleCloudTransKey">کلید مجوز مترجم ابری Google</string>
     <string name="GoogleCloudTransKeyNotice">اگر کلید مجوز مترجم ابری Google تنظیم کرده باشید، از API ابری استفاده خواهد شد، که خیلی سریعتر، پایدار، کم‌مصرف‌تر است (نسبت به ارسال فرم جعلی به وب‌سایت مترجم).</string>
     <string name="TransToLang">زبان ترجمه مقصد</string>
@@ -267,7 +267,7 @@
 \nتصویر پروفایل بعنوان پس‌زمینه
 \nتصویر بزرگ پروفایل بعنوان پس‌زمینه</string>
     <string name="DisableInstantCamera">غیرفعال کردن دوربین فوری</string>
-    <string name="repeatConfirmText">برای تکرار مطمئن هستید؟</string>
+    <string name="repeatConfirmText">آیا مطمئن هستید که میخواهید تکرار شود؟</string>
     <string name="repeatConfirm">پرسیدن قبل از تکرار پیام</string>
     <string name="showSeconds">نمایش ثانیه حین نمایش زمان</string>
     <string name="AutoCheckUpdatePreview">پیش‌نمایش (ناپایدار)</string>

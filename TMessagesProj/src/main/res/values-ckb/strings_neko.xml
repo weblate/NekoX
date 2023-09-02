@@ -1,2 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="IPv6">گرێدان لە ڕێگەی IPv6</string>
+    <string name="MessageMenu">پێڕستی پەیام</string>
+    <string name="HidePhone">ژمارە تەلەفوونەکەم بشارەوە</string>
+    <string name="BotLogin">چوونەژوورەوەی بۆت</string>
+    <string name="InvalidAccessToken">کۆدی تۆکنی ناردووست</string>
+    <string name="IgnoreBlocked">پەیامەکانی بەکارھێنەرە ڕاگیراوەکان بشارەوە</string>
+    <string name="Connection">گرێدان</string>
+    <string name="Chat">وتووێژ</string>
+    <string name="NameOrder">ڕیزبەندی ناو</string>
+    <string name="FirstLast">یەکەم تا کۆتا</string>
+    <string name="LastFirst">کۆتا تا یەکەم</string>
+    <string name="TypefaceUseDefault">بەکارھێنانی فۆنتی بنەڕەتی سیستەم</string>
+    <string name="NoQuoteForward">بەڕێکردن بەبێ ناوهێنان</string>
+    <string name="CreateMention">دروستکردنی ئاماژە</string>
+    <string name="NekoSettings">ڕێکخستنەکانی Neko</string>
+    <string name="DeleteAllFromSelf">سڕینەوەی تەواوی پەیامەکانی خۆت</string>
+    <string name="DeleteAllFromSelfAlert">ئاگاداری! ئەم کارە **تەواوی پەیامەکانی تۆ** لەم وتووێژەدا بۆ **تەواوی** بەشداربوەکان دەسڕێتەوە.</string>
+    <string name="Repeat">دووبارەکردنەوە</string>
+    <string name="AddToSavedMessages">پاشەکەوتی پەیام</string>
+</resources>

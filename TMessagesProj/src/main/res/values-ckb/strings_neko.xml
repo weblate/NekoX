@@ -47,4 +47,18 @@
     <string name="TranslateApiUnsupported">ئەو دابینکەری وەرگێڕانە کە هەڵتبژاردووە پشتگیری لە زمانەکەت ناکات.</string>
     <string name="UnlimitedFavoredStickers">لەزگە بێسنوورە بەدڵەکان</string>
     <string name="UnlimitedPinnedDialogs">وتووێژی بێسنووری دەرزیلەکراو</string>
+    <string name="DisableAppBarShadow">ناچالاککردنی سێبەری شریتی ناونیشان</string>
+    <string name="BetaWarning">ئەمە تایبەتمەندییەکی **تاقیکارییە** کە لەلایەن **تەلەگرامەوە** جێبەجێ کراوە.</string>
+    <string name="MediaPreview">پێشبینینی ڕەنگاڵە لە لیستی وتووێژ</string>
+    <string name="AutoPauseVideo">ڕاگرتنی هۆکاری ڤیدیۆ</string>
+    <string name="AutoPauseVideoAbout">کاتێک پەردەکە قفڵ دەکەیت/بگۆڕدرێت بۆ پاشبنەما.</string>
+    <string name="DisableProximityEvents">ناچالاککردنی هەستەوەری نزیکی</string>
+    <string name="ProviderMicrosoftTranslator">وەرگێڕانی Microsoft</string>
+    <string name="ProviderYouDao">وەرگێڕانی YouDao</string>
+    <string name="IncreaseVoiceMessageQuality">بەرزکردنەوەی چۆنیەتی پەیامە دەنگییەکان</string>
+    <string name="DarkenAvatarBackground">تاریککردنی وێنەی لادیمەن</string>
+    <string name="ProviderDeepLTranslate">وەرگێڕانی DeepL</string>
+    <string name="AvatarAsBackground">وێنەی لادیمەن وەک پاشبنەما</string>
+    <string name="SelectBetween">هەڵبژاردنی نێوان</string>
+    <string name="BlurAvatarBackground">لێڵکردنی وێنەی لادیمەن</string>
 </resources>

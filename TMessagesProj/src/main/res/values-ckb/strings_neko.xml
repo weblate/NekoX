@@ -78,4 +78,5 @@
     <string name="SaveToDownloadCount_many">پاشەکەوتی %1$d لە دابەزیوەکان</string>
     <string name="doubleTapSendReactions">ناردنی کاردانەوە بە دوو کرتە (بنەڕەت)</string>
     <string name="customSavePathHint">بۆ پاشەکەوتی ڕاستەوخۆ بە بەتاڵی بەجێی بهێڵە</string>
+    <string name="ForceTabletMode">دۆخی تابلێتی زۆرەملێ</string>
 </resources>

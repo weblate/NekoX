@@ -61,4 +61,21 @@
     <string name="AvatarAsBackground">وێنەی لادیمەن وەک پاشبنەما</string>
     <string name="SelectBetween">هەڵبژاردنی نێوان</string>
     <string name="BlurAvatarBackground">لێڵکردنی وێنەی لادیمەن</string>
+    <string name="autoUpdateSubInfo">نوێکردنەوەی خۆکارانەی پڕۆکسییەکان</string>
+    <string name="hideSendAsChannel">شاردنەوەی ناردن وەک کەناڵ</string>
+    <string name="showSpoilersDirectly">پیشاندانی ڕاستەخۆی پەیامە سپۆیلەرەکان</string>
+    <string name="SaveToDownloadCount_zero">پاشکەوتکرتکردنی %1$d پەڕگە لە دانلۆدەکان</string>
+    <string name="SaveToDownloadCount_one">پاشەکەوتکردنی %1$d پەڕگە لە دانلۆدەکان</string>
+    <string name="SaveToDownloadCount_two">پاشەکەوتکردنی %1$d پەڕگە لە دانلۆدەکان</string>
+    <string name="SaveToDownloadCount_few">پاشەکەوتی %1$d پەڕگە لە دانلۆدەکان</string>
+    <string name="SaveToDownloadCount_other">پاشەکەوتی %1$d لە دابەزیوەکان</string>
+    <string name="NekoGeneralNotification">ئاگادارکەرەوە</string>
+    <string name="disableNotificationBubbles">ناچالاککردنی بڵقەکان لە ئاگادارکەرەوە</string>
+    <string name="reactions">کاردانەوەکان لە پێڕست</string>
+    <string name="doubleTapShowReactions">پیشاندانی کاردانەوەکان تەنھا لە کاتی دوو کرتە</string>
+    <string name="ReactionsDisabled">ناچالاک</string>
+    <string name="customSavePath">ڕێڕەوی پاشەکەوتی تایبەت</string>
+    <string name="SaveToDownloadCount_many">پاشەکەوتی %1$d لە دابەزیوەکان</string>
+    <string name="doubleTapSendReactions">ناردنی کاردانەوە بە دوو کرتە (بنەڕەت)</string>
+    <string name="customSavePathHint">بۆ پاشەکەوتی ڕاستەوخۆ بە بەتاڵی بەجێی بهێڵە</string>
 </resources>

@@ -79,4 +79,18 @@
     <string name="doubleTapSendReactions">ناردنی کاردانەوە بە دوو کرتە (بنەڕەت)</string>
     <string name="customSavePathHint">بۆ پاشەکەوتی ڕاستەوخۆ بە بەتاڵی بەجێی بهێڵە</string>
     <string name="ForceTabletMode">دۆخی تابلێتی زۆرەملێ</string>
+    <string name="Prpr">لێستنەوە</string>
+    <string name="TransparentStatusBar">شریتی دۆخی ڕوون</string>
+    <string name="EnableResidentNotification">پیشاندانی ئاگادارکەرەوەیەکی نیشتەجێ</string>
+    <string name="DisableResidentNotification">ناچالاککردنی ئاگادارکەرەوەی نیشتەجێ</string>
+    <string name="NekogramRunning">نێکۆگرام لە حاڵی کارکردندایە</string>
+    <string name="EventType">دەستە ئایکۆنی کەناریی</string>
+    <string name="ChristmasHat">هەموو ڕۆژێک کڵاوی سانتا پیشان بدە</string>
+    <string name="ActionBarDecoration">ڕازاندنەوەی شریتی ناونیشان</string>
+    <string name="DependsOnDate">بەپێی ڕێکەوت</string>
+    <string name="Christmas">کریسمەس</string>
+    <string name="Valentine">ڕۆژی ڤالێنتاین</string>
+    <string name="Snowflakes">دەنکی بەفر</string>
+    <string name="Fireworks">یاری ئاگرین</string>
+    <string name="DeleteDownloadedFile">سڕینەوەی پەڕگە دانلۆدکراوەکان</string>
 </resources>

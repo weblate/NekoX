@@ -93,4 +93,15 @@
     <string name="Snowflakes">دەنکی بەفر</string>
     <string name="Fireworks">یاری ئاگرین</string>
     <string name="DeleteDownloadedFile">سڕینەوەی پەڕگە دانلۆدکراوەکان</string>
+    <string name="TestBackend">تاقیکردنەوەی Backend</string>
+    <string name="TestBackendOn">ئەم هەژمارە بە تاقیکردنەوەی backendەوە گرێ دەدرێت.</string>
+    <string name="TestBackendOff">ئەم هەژمارە بە پاشکۆی بەرهەمهێنانەوە گرێ دەدرێت.</string>
+    <string name="HideProxySponsorChannel">شاردنەوەی کەناڵی سپۆنسەری پڕۆکسی</string>
+    <string name="UnlimitedPinnedDialogsAbout">بە ناچالاککردنی هاوکاتکردن، بێسنوور وتووێژ دەرزیلە بکە.</string>
+    <string name="OpenArchiveOnPull">کردنەوەی ئەرشیڤ بە ڕاکێشان بۆ خوارەوە</string>
+    <string name="HideKeyboardOnChatScroll">شاردنەوەی تەختەکلیل لە کاتی ڕاکێشانی وتووێژ</string>
+    <string name="UserRestrictionsSendStickers2">ناردنی لەزگەکان</string>
+    <string name="UserRestrictionsSendGifs">ناردنی گیفەکان</string>
+    <string name="ShowTabsOnForward">پیشاندانی شریتەکان لە کاتی بەڕێکردن</string>
+    <string name="CheckAllAdministrated">زیادکردنی بەڕێوەبەر</string>
 </resources>

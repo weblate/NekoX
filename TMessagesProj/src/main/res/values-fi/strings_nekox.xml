@@ -95,4 +95,9 @@
     <string name="CustomBackendNotice">Tämä toiminto on tarkoitettu vain kokeneille käyttäjille, jos et tiedä, mitä seuraavat vaihtoehdot tarkoittavat, jätä se huomiotta.</string>
     <string name="CustomBackendTestDC">Virallinen testitietokeskus</string>
     <string name="UseProxyItem">Käytä sivupalkin välityspalvelinta painikkeen sijasta</string>
+    <string name="HideProxyByDefault">Piilota välityspalvelimen asetukset oletusarvoisesti</string>
+    <string name="UnblockAll">Poista kaikki estot</string>
+    <string name="DeleteAllInChatAlert">Varoitus! Tämä **poistaa kaikki viestit** tästä keskustelusta **kaikilta** osallistujilta.</string>
+    <string name="SkipOpenLinkConfirm">Ohita linkin avaamisen vahvistus</string>
+    <string name="DeleteAllInChat">Poista kaikki keskustelusta</string>
 </resources>

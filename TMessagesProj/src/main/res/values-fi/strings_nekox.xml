@@ -1,2 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="ChatAttachEnterMenuRecordAudio">Tallenna ääntä</string>
+    <string name="ChatAttachEnterMenuDisableLinkPreview">Poista linkkien esikatselu käytöstä</string>
+    <string name="ChatAttachEnterMenuRecordVideo">Tallenna videota</string>
+    <string name="AccDescrChatAttachEnterMenu">Keskustelujen syöttövalikko</string>
+    <string name="ChatAttachEnterMenuEnableLinkPreview">Ota linkkien esikatselu käyttöön</string>
+    <string name="Locked">Lukittu</string>
+</resources>

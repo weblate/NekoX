@@ -35,7 +35,7 @@
     <string name="Snowflakes">雪花</string>
     <string name="Fireworks">煙花</string>
     <string name="DeleteDownloadedFile">刪除快取的檔案</string>
-    <string name="TestBackend">異世界</string>
+    <string name="TestBackend">測試後端</string>
     <string name="TestBackendOn">此帳戶將連線至測試後端伺服器。</string>
     <string name="TestBackendOff">此帳戶將連線至生產後端伺服器。</string>
     <string name="HideProxySponsorChannel">隱藏代理贊助商頻道</string>

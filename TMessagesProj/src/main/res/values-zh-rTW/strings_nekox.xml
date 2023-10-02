@@ -133,7 +133,7 @@
     <string name="SSRObfsParam">混淆引數</string>
     <string name="ProxyInfoTrojan">Trojan 代理設定</string>
     <string name="TrojanSNI">SNI (可選)</string>
-    <string name="ProxyRemarks">別名</string>
+    <string name="ProxyRemarks">備註</string>
     <string name="RetestPing">重新測試所有 Ping 值</string>
     <string name="ReorderByPing">基於 Ping 值重新排序</string>
     <string name="ExportProxies">匯出伺服器列表到檔案</string>
@@ -142,7 +142,7 @@
     <string name="ProxySubscription">代理訂閱</string>
     <string name="ProxySubDetails">訂閱詳情</string>
     <string name="SubscriptionUrls">連結列表</string>
-    <string name="SubscriptionUpdating">正更新訂閱</string>
+    <string name="SubscriptionUpdating">正在更新訂閱內容</string>
     <string name="SubscriptionDelete">刪除訂閱</string>
     <string name="ExportStickers">匯出貼圖集</string>
     <string name="ImportStickersX">從檔案匯入貼圖集</string>

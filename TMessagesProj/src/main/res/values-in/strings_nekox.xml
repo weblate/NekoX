@@ -94,7 +94,7 @@
     <string name="DisableSystemAccount">Matikan Akun Sistem</string>
     <string name="FilterMenu">Menu Penyaring Obrolan</string>
     <string name="DisableProxyWhenVpnEnabled">Matikan proxy ketika ada VPN yang menyala</string>
-    <string name="UseProxyItem">Tampilkan saklar Proxy pada menu bilah samping</string>
+    <string name="UseProxyItem">Gunakan Proxy pada menu bilah samping dan bukan pada saklar</string>
     <string name="HideProxyByDefault">Sembunyikan pengaturan Proxy secara standar</string>
     <string name="SkipOpenLinkConfirm">Lewati dialog konfirmasi saat membuka tautan</string>
     <string name="DeleteAllInChat">Hapus semua pesan dalam obrolan</string>

@@ -11,7 +11,7 @@
     <string name="DisableLinkPreviewByDefault">Адключыць папярэдні перагляд спасылак па змаўчанні</string>
     <string name="UseChatAttachEnterMenuNotice">Змяніць кнопку запісу на меню ўводу і дадаць пераключальнік папярэдняга перагляду спасылак.</string>
     <string name="LinkedChannelChat">Звязаны канал</string>
-    <string name="UpdateDownloaded">Абнаўленне толькі што спампавалась.</string>
+    <string name="UpdateDownloaded">Абнаўленне толькі што спампавалася.</string>
     <string name="ProxyAutoSwitch">Аўтаматычнае пераключэнне проксі</string>
     <string name="DevModeTitle">**Ваш акаўнт Telegram можа быць забанены**</string>
     <string name="Ignore">Ігнараваць</string>

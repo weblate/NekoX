@@ -25,7 +25,7 @@
     <string name="UpdateUpdate">Cập nhật</string>
     <string name="UpdateLater">Để sau</string>
     <string name="DownloadFailed">Tải xuống không thành công</string>
-    <string name="Install">https://hosted.weblate.org/translate/nekox/nekox/vi/\?checksum=9593fc203fec4232\tInstall</string>
+    <string name="Install">Cài đặt</string>
     <string name="Ignore">Phớt lờ</string>
     <string name="UpdateDownloaded">Một bản cập nhật đã được tải xuống.</string>
     <string name="ProxyAutoSwitch">Proxy tự động bật</string>
@@ -41,7 +41,7 @@
     <string name="CustomBackendTestDC">Trung tâm dữ liệu thử nghiệm chính thức</string>
     <string name="AllowFlashCall">Cho phép cuộc gọi nhanh</string>
     <string name="ChangeTranslateProvider">Thay đổi nhà cung cấp</string>
-    <string name="ProviderYandexTranslate">Yandex.Dịch</string>
+    <string name="ProviderYandexTranslate">Yandex Dịch</string>
     <string name="GoogleCloudTransKey">Key Google Cloud Translate</string>
     <string name="GoogleCloudTransKeyNotice">Nếu bạn thiết lập Key Google Cloud Trans, API dịch trên đám mây sẽ được gọi thay vì gửi biểu mẫu giả tới phiên bản web khi dịch (nhanh hơn, ổn định và tiết kiệm lưu lượng truy cập).</string>
     <string name="TransToLang">Dịch ngôn ngữ được chọn</string>
@@ -239,7 +239,7 @@
     <string name="ImportSettingsAlert">Bạn có chắc chắn muốn ghi đè cài đặt không\? Việc nhập cài đặt từ các nguồn không xác định có thể khiến mã pin bị ghi đè và khiến ứng dụng bị khóa.</string>
     <string name="ImportSettings">Nhập cà“i đặt</string>
     <string name="BackupSettings">Sao lưu cài đặt</string>
-    <string name="AutoLockImmediately">Immediately</string>
+    <string name="AutoLockImmediately">Ngay lập tức</string>
     <string name="AutoCheckUpdateRc">Bản gần hoàn thiện</string>
     <string name="AutoCheckUpdateStable">Ổn định</string>
     <string name="AutoCheckUpdateSwitch">Tự động cập nhật</string>
@@ -254,7 +254,7 @@
     <string name="DeleteDownloadedFileConfirm">Xoá tệp này khỏi bộ nhớ đệm cục bộ\?</string>
     <string name="useCustomEmojiInvalid">Không phải tệp zip emoji hợp lệ.</string>
     <string name="useCustomEmoji">Sử dụng emoji tuỳ chỉnh</string>
-    <string name="repeatConfirmText">Bạn có chắc muốn lặp lại không\?</string>
+    <string name="repeatConfirmText">Bạn có chắc chắn muốn lặp lại\?</string>
     <string name="unreadBadgeOnBackButton">Biểu tượng chưa đọc trên nút quay lại</string>
     <string name="DeleteDownloadedFileSucceed">Đã xoá</string>
     <string name="DeleteDownloadedFileExternal">Tệp ở bộ nhớ ngoài được bỏ qua.</string>

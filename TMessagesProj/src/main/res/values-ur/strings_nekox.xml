@@ -80,4 +80,8 @@
     <string name="CheckUpdate">اپ ڈیٹ چیک کریں</string>
     <string name="CustomBackendNotice">یہ فنکشن صرف ماہر صارفین کے لیے فراہم کیا گیا ہے، اگر آپ نہیں جانتے کہ درج ذیل اختیارات کس چیز کی نمائندگی کرتے ہیں، تو اسے نظر انداز کر دیں۔</string>
     <string name="CustomBackendTestDC">آفیشل ٹیسٹ ڈیٹا سینٹر</string>
+    <string name="DialogsSettings">ڈائیلاگ ک�</string>
+    <string name="DeleteAllInChatAlert">تنبیہ! یہ اس چیٹ میں تمام پیغامات کو ت�.</string>
+    <string name="IgnoreMutedCount">فولڈر ٹیب میں خاموش پڑھے گئ�</string>
+    <string name="DeleteAllInChat">چیٹ میں سب ک�</string>
 </resources>

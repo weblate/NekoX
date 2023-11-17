@@ -103,4 +103,15 @@
     <string name="BlockedListEmpty">آپ نے کسی کو بلاک نہیں کیا :)</string>
     <string name="SortMenu">ڈائیلاگ کی ترتیب کی ترتیبات</string>
     <string name="UseProxyItem">بٹن کے بجائے سائڈبار پراکسی آئٹم استعمال کریں</string>
+    <string name="NoProxy">آپ نے کوئی پراکسی سرور شامل نہیں کیا ہے۔</string>
+    <string name="channelAlias">چینل عرف</string>
+    <string name="DeleteUnavailableServer">غیر دستیاب سرورز کو حذف کریں</string>
+    <string name="setChannelAliasName">عرف مقرر کریں</string>
+    <string name="InvalidProxyFile">غلط پراکسی لسٹ فائل:</string>
+    <string name="InteractionSettings">تعامل</string>
+    <string name="Name">نام</string>
+    <string name="ImportedProxies">درآمد شدہ پراکسی سرورز:</string>
+    <string name="ErrorsInImport">درآمد کی خرابیاں:</string>
+    <string name="channelAliasDetails">لیبل چینل صارف کو فعال کرنے کی ضرورت ہے۔</string>
+    <string name="DeleteAllServer">تمام سرورز کو حذف کریں</string>
 </resources>

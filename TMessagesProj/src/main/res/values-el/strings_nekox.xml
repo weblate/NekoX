@@ -197,7 +197,7 @@
     <string name="CCJP">Νέα ιαπωνικά Kanji (Shinjitai)</string>
     <string name="ArchiveFiles">Αρχειοθέτηση αρχείων</string>
     <string name="update_download_soucre">Επιλέξτε πηγή λήψης</string>
-    <string name="repeatConfirmText">Επανάληψη σίγουρα;</string>
+    <string name="repeatConfirmText">Σίγουρα θέλετε Επανάληψη;</string>
     <string name="labelChannelUser">Ετικέτα καναλιού χρήστη</string>
     <string name="DismissForYourself">Απορρίψτε για τον εαυτό σας</string>
     <string name="QRLoginNotice">Αυτός ο κωδικός / σύνδεσμος QR επιτρέπει σε κάποιον να συνδεθεί στον λογαριασμό σας στο Telegram. Είναι δική σας επέμβαση;</string>

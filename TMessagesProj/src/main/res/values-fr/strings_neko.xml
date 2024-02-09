@@ -14,7 +14,7 @@
     <string name="LastFirst">Dernier Premier</string>
     <string name="Repeat">Répéter</string>
     <string name="AddToSavedMessages">Enregistrer le message</string>
-    <string name="Nya">Miaou!</string>
+    <string name="Nya">Miaou !</string>
     <string name="StickerSizeDialogMessageReplyTo">Miaou</string>
     <string name="ProviderGoogleTranslate">Google Traduction</string>
     <string name="ProviderGoogleTranslateCN">Google Traduction CN</string>
@@ -72,12 +72,12 @@
     <string name="TestBackend">Serveur de test</string>
     <string name="ViewHistory">Voir l\'historique</string>
     <string name="SaveCacheToExternalFilesDir">Isolation du stockage</string>
-    <string name="SensitiveDisableFiltering">Désactiver le filtrage du contenu sensible</string>
+    <string name="SensitiveDisableFiltering">Désactiver le filtrage des contenus sensibles</string>
     <string name="HideProxySponsorChannel">Masquer le canal du sponsor du proxy</string>
-    <string name="SensitiveAbout">Afficher le contenu sensible dans les canaux publics de tous vos appareils.</string>
+    <string name="SensitiveAbout">Afficher les contenus sensibles dans les canaux publics de tous vos appareils.</string>
     <string name="StickerSizeDialogMessageBigOne">Un grand</string>
     <string name="StickerSizeDialogMessageSmallOne">Un petit</string>
-    <string name="StickerSizeDialogName">Duang</string>
+    <string name="StickerSizeDialogName">Plan</string>
     <string name="Experiment">Expérimental</string>
     <string name="StickerSize">Taille des vignettes</string>
     <string name="UnlimitedFavoredStickers">Vignettes favorites illimitées</string>
@@ -101,7 +101,7 @@
     <string name="DeleteAllFromSelf">Supprimer tous mes messages</string>
     <string name="EventType">Set d\'icônes de la barre latérale</string>
     <string name="DeleteAllFromSelfAlert">Attention ! Cette action **supprimera tous vos messages** dans ce groupe de discussion pour **tous** les participants.</string>
-    <string name="TestBackendOff">Ce compte se connectera au serveur principal.</string>
+    <string name="TestBackendOff">Ce compte se connectera au serveur de production.</string>
     <string name="SaveCacheToExternalFilesDirAbout">Enregistrer le dossier \"Telegram\" dans le répertoire dédié à l\'application afin de garder l\'espace partagé bien rangé.</string>
     <string name="Snowflakes">Flocons de neige</string>
     <string name="TestBackendOn">Ce compte se connectera au serveur de test.</string>

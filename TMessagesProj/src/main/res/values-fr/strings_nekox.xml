@@ -220,16 +220,14 @@
     <string name="EnableStickerPin">Activer l\'épinglage des autocollants</string>
     <string name="Win32ExecutableFiles">Fichiers exécutables Win32</string>
     <string name="EnableStickerPinAbout">Épingler les Autocollant et les synchroniser dans le cloud lors de l\'ajout de nouvelles.
-\n
 \nAssocié avec l\'option \"Désactiver les vignettes favorites et récentes\".</string>
     <string name="VersionUpdateConfirm">MISE À JOUR</string>
     <string name="AddProxyWs">Ajouter un relais WebSocket</string>
     <string name="EnableStickerPinTip">Cette fonction est toujours en développement, la synchronisation dans le cloud peut ne pas fonctionner comme prévu.</string>
     <string name="UsePersiancalendarInfo">Afficher la date avec le calendrier Solaire Hijiri</string>
     <string name="VersionUpdateVariantNotMatch">Impossible de faire correspondre automatiquement les variantes de version.
-\n
 \nVeuillez télécharger manuellement depuis GitHub.</string>
-    <string name="WsPayload">Charge</string>
+    <string name="WsPayload">Charge utile</string>
     <string name="IgnoreContentRestrictionsNotice">Ignorer les restrictions de lecture sur les messages.</string>
     <string name="ImportSettings">Importer les paramètres</string>
     <string name="VersionUpdateNoUpdate">Pas de Mise à jour.</string>
@@ -259,9 +257,7 @@
     <string name="hideSponsoredMessage">Cacher les messages sponsorisés</string>
     <string name="VersionUpdateIgnore">Ignorer</string>
     <string name="valuesLargeAvatarInDrawer">Télégramme par défaut
-\n
 \nAvatar comme arrière-plan
-\n
 \nGrand avatar en arrière-plan</string>
     <string name="ImportSettingsAlert">Écraser les paramètres ? L\'importation de paramètres à partir de sources inconnues peut entraîner l\'écrasement du code PIN et le verrouillage de l\'application.</string>
     <string name="DisableInstantCamera">Désactiver la caméra instantanée</string>
@@ -280,7 +276,7 @@
     <string name="AppUpdateNekoX">Mettre à jour Nekogram X</string>
     <string name="setChannelAliasName">Définir un alias</string>
     <string name="ConfirmSettings">Confirmation</string>
-    <string name="StickerSettings">Sticker</string>
+    <string name="StickerSettings">Autocollant</string>
     <string name="labelChannelUser">Label du canal de l\'utilisateur</string>
     <string name="labelChannelUserDetails">Si l\'expéditeur du message est \"Canal\", il sera étiqueté \"Canal\".</string>
     <string name="InteractionSettings">Interaction</string>

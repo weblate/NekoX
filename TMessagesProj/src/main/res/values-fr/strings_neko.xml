@@ -25,7 +25,7 @@
     <string name="UnlimitedPinnedDialogs">Discussions épinglées illimitées</string>
     <string name="UnlimitedPinnedDialogsAbout">Épingler un nombre illimité de discussions en désactivant leur synchronisation.</string>
     <string name="HideKeyboardOnChatScroll">Cacher le clavier lors du défilement de la conversation</string>
-    <string name="UserRestrictionsSendStickers2">Envoyer des vignettes</string>
+    <string name="UserRestrictionsSendStickers2">Envoyer des Autocollants</string>
     <string name="UserRestrictionsSendGifs">Envoyer des GIFs</string>
     <string name="HideAllTabAbout">Appuyez sur \"Retour\" sur la page d\'accueil pour l\'ouvrir.</string>
     <string name="TabTitleType">Afficher sur les onglets</string>
@@ -36,7 +36,7 @@
     <string name="ConfirmAVMessage">Confirmer l\'envoi d\'un message vidéo/vocal</string>
     <string name="AskBeforeCalling">Demander avant d\'appeler</string>
     <string name="ConfirmCall">Confirmer l\'appel</string>
-    <string name="CallTo">Appeler **%1$s** \?</string>
+    <string name="CallTo">Appeler **%1$s** ?</string>
     <string name="DisableNumberRounding">Désactiver l\'arrondi des nombres</string>
     <string name="Categories">Catégories</string>
     <string name="OfficialChannel">Canal officiel</string>
@@ -48,9 +48,9 @@
     <string name="AvatarAsBackground">Image de profil comme arrière-plan</string>
     <string name="BlurAvatarBackground">Flouter l\'image de profil</string>
     <string name="DarkenAvatarBackground">Assombrir la photo de profil</string>
-    <string name="ProviderDeepLTranslate">DeepL Translate</string>
-    <string name="ProviderMicrosoftTranslator">Microsoft Translator</string>
-    <string name="ProviderYouDao">YouDao Translate</string>
+    <string name="ProviderDeepLTranslate">DeepL Traduction</string>
+    <string name="ProviderMicrosoftTranslator">Microsoft Traduction</string>
+    <string name="ProviderYouDao">YouDao Traduction</string>
     <string name="pressTitleToOpenAllChats">Appuyer sur le titre pour ouvrir l\'onglet \"Toutes les conversations\"</string>
     <string name="IgnoreBlocked">Ignorer les utilisateurs bloqués dans le groupe</string>
     <string name="TypefaceUseDefault">Utiliser la police par défaut du système</string>
@@ -73,7 +73,7 @@
     <string name="ViewHistory">Voir l\'historique</string>
     <string name="SaveCacheToExternalFilesDir">Isolation du stockage</string>
     <string name="SensitiveDisableFiltering">Désactiver le filtrage des contenus sensibles</string>
-    <string name="HideProxySponsorChannel">Masquer le canal du sponsor du proxy</string>
+    <string name="HideProxySponsorChannel">Masquer le canal du sponsor de proxy</string>
     <string name="SensitiveAbout">Afficher les contenus sensibles dans les canaux publics de tous vos appareils.</string>
     <string name="StickerSizeDialogMessageBigOne">Un grand</string>
     <string name="StickerSizeDialogMessageSmallOne">Un petit</string>
@@ -93,7 +93,7 @@
     <string name="CheckAllAdministrated">Ajouter les conversations dont vous êtes administrateur</string>
     <string name="RearVideoMessages">Utiliser la caméra arrière pour les messages vidéos</string>
     <string name="HideAllTab">Masquer l\'onglet \"Toutes les conversations\"</string>
-    <string name="ResetStickerSize">Réinitialiser la taille des vignettes</string>
+    <string name="ResetStickerSize">Réinitialiser la taille des Autocollants</string>
     <string name="MediaPreview">Aperçu des médias dans la liste des conversations</string>
     <string name="AutoPauseVideo">Pause automatique des vidéos</string>
     <string name="AutoPauseVideoAbout">Lors du verrouillage de l\'écran ou du passage de l\'application en arrière-plan.</string>
@@ -111,11 +111,11 @@
     <string name="DisableAppBarShadow">Désactiver l\'ombre de la barre de titre</string>
     <string name="IncreaseVoiceMessageQuality">Améliorer la qualité des messages vocaux</string>
     <string name="TakeGIFasVideo">Traiter les GIF comme des vidéos</string>
-    <string name="DontSendGreetingSticker">Ne pas envoyer de vignette de salutation</string>
+    <string name="DontSendGreetingSticker">Ne pas envoyer l\'Autocollant de salutation</string>
     <string name="UseMediaStreamInVoip">Utiliser le flux des médias dans les appels VoIP</string>
-    <string name="hideGroupSticker">Masquer les vignettes de groupe</string>
+    <string name="hideGroupSticker">Masquer les Autocollants de groupe</string>
     <string name="disableRemoteEmojiInteractions">Désactiver les interactions des émoticônes à distance</string>
-    <string name="HideTimeForSticker">Masquer l\'horodatage des vignettes</string>
+    <string name="HideTimeForSticker">Masquer l\'horodatage des Autocollants</string>
     <string name="useSystemDNS">Utiliser le DNS du système</string>
     <string name="customDoH">DoH personnalisé</string>
     <string name="customGroupVoipAudioBitrate">Débit du flux audio lors des appels VoIP</string>

@@ -140,4 +140,12 @@
     <string name="SaveToDownloadCount_zero">Enregistrement de %1$d fichiers dans les téléchargements</string>
     <string name="SaveToDownloadCount_one">Enregistrement de %1$d fichier dans les téléchargements</string>
     <string name="reactions">Réactions dans le menu</string>
+    <string name="hideSendAsChannel">Masquer l’envoi en tant que canal</string>
+    <string name="doubleTapSendReactions">Envoyer une réaction lors d’un double appui (par défaut)</string>
+    <string name="forceBlurInChat">Forcer l’activation du Flou du Chat</string>
+    <string name="ChatBlurAlphaValue">Flou du Chat Alpha</string>
+    <string name="disablePremiumStickerAnimation">Désactiver l’animation d’autocollants premium</string>
+    <string name="enhancedFileLoader">Améliorer la vitesse de téléchargement</string>
+    <string name="mapDriftingFixForGoogleMaps">Correction de la dérive de Google Maps en Chine</string>
+    <string name="useOSMDroidMap">Utiliser OSMDroid Map</string>
 </resources>

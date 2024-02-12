@@ -60,7 +60,7 @@
     <string name="FilterNameGroupsDescription">Seulement les messages des discussions de groupe</string>
     <string name="FilterNameChannels">Canaux</string>
     <string name="FilterNameChannelsDescription">Seulement les messages des canaux</string>
-    <string name="FilterNameBots">Bots</string>
+    <string name="FilterNameBots">Bots / Robots</string>
     <string name="FilterNameBotsDescription">Seulement les messages des bots</string>
     <string name="FilterNameUnmuted">Sans sourdine</string>
     <string name="FilterNameUnmutedDescription">Seulement les messages des discussions sans sourdine</string>

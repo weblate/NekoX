@@ -87,7 +87,7 @@
     <string name="DeleteAccount">Supprimer le compte Telegram</string>
     <string name="TranslateFailed">Erreur du serveur de traduction</string>
     <string name="TranslationProvider">Fournisseur de traduction</string>
-    <string name="DisablePhotoViewerSideAction">Désactiver le défilement des photos à l\'appui</string>
+    <string name="DisablePhotoViewerSideAction">Désactiver le défilement des photos en appuyant dessus</string>
     <string name="OpenArchiveOnPull">Ouvrir les conversations archivées en tirant vers le bas</string>
     <string name="ShowTabsOnForward">Afficher les onglets lors du transfert</string>
     <string name="CheckAllAdministrated">Ajouter les conversations dont vous êtes administrateur</string>
@@ -118,10 +118,10 @@
     <string name="HideTimeForSticker">Masquer l\'horodatage des Autocollants</string>
     <string name="useSystemDNS">Utiliser le DNS du système</string>
     <string name="customDoH">DoH personnalisé</string>
-    <string name="customGroupVoipAudioBitrate">Débit du flux audio lors des appels VoIP</string>
-    <string name="maxRecentStickerCount">Nombre maximum de vignettes récentes</string>
+    <string name="customGroupVoipAudioBitrate">Bitrate audio VoIP du groupe</string>
+    <string name="maxRecentStickerCount">Maximum d\'autocollants récents</string>
     <string name="disableSwipeToNextChannel">Désactiver le glissement vers le canal suivant</string>
-    <string name="disableChoosingSticker">Envoyer en tapant au lieu de choisir une vignette</string>
+    <string name="disableChoosingSticker">Envoyer en tapant au lieu de choisir un autocollant</string>
     <string name="SaveToDownloadCount_other">Enregistrement de %1$d fichiers dans les téléchargements</string>
     <string name="enablePublicProxy">Proxy public de NekoX</string>
     <string name="customSavePath">Chemin de stockage personnalisé</string>
@@ -132,7 +132,7 @@
     <string name="SaveToDownloadCount_few">Enregistrement de %1$d fichiers dans les téléchargements</string>
     <string name="SaveToDownloadCount_many">Enregistrement de %1$d fichiers dans les téléchargements</string>
     <string name="disableNotificationBubbles">Désactiver les bulles dans les notifications</string>
-    <string name="doubleTapShowReactions">Afficher les réactions uniquement après un appui double</string>
+    <string name="doubleTapShowReactions">Afficher les réactions uniquement après un double appui</string>
     <string name="ReactionsDisabled">Désactiver</string>
     <string name="showBottomActionsWhenSelecting">Afficher les actions en bas lors de la sélection</string>
     <string name="channelLabel">canal</string>
@@ -141,8 +141,8 @@
     <string name="SaveToDownloadCount_one">Enregistrement de %1$d fichier dans les téléchargements</string>
     <string name="reactions">Réactions dans le menu</string>
     <string name="hideSendAsChannel">Masquer l’envoi en tant que canal</string>
-    <string name="doubleTapSendReactions">Envoyer une réaction lors d’un double appui (par défaut)</string>
-    <string name="forceBlurInChat">Forcer l’activation du Flou du Chat</string>
+    <string name="doubleTapSendReactions">Envoyer une réaction lors d’un double appui sur un message (paramètres par défaut)</string>
+    <string name="forceBlurInChat">Forcer l\'activation du flou du Chat</string>
     <string name="ChatBlurAlphaValue">Flou du Chat Alpha</string>
     <string name="disablePremiumStickerAnimation">Désactiver l’animation d’autocollants premium</string>
     <string name="enhancedFileLoader">Améliorer la vitesse de téléchargement</string>

@@ -92,7 +92,7 @@
     <string name="ImportStickersList">Εισαγωγή αυτοκόλλητων</string>
     <string name="VmessNetwork">Δίκτυο</string>
     <string name="SubscriptionDelete">Διαγραφή Συνδρομής</string>
-    <string name="ImportStickersX">Εισαγωγή αυτοκόλλητων από αρχείο</string>
+    <string name="ImportStickersX">Εισαγωγή αυτοκόλλητων</string>
     <string name="ShareMessages">Κοινή χρήση</string>
     <string name="MinApi21Required">Συγγνώμη, χρειάζεστε τουλάχιστον Android 5 (επίπεδο API 21).</string>
     <string name="LoginSettings">Ρυθμίσεις σύνδεσης</string>

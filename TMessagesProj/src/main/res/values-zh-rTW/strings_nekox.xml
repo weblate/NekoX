@@ -98,7 +98,7 @@
     <string name="SkipOpenLinkConfirm">跳過開啟連結確認</string>
     <string name="DeleteAllInChat">刪除群組所有訊息</string>
     <string name="DeleteAllInChatAlert">警告！這將**刪除此聊天中所有使用者**的**所有訊息**。</string>
-    <string name="UnblockAll">解除所有</string>
+    <string name="UnblockAll">解除封鎖所有</string>
     <string name="UnblockAllWarn">您確定要解除封鎖**所有使用者和機器人**嗎？</string>
     <string name="BlockedListEmpty">您還沒有封鎖任何人 :)</string>
     <string name="ProxyTypeVmess">VMess 代理</string>

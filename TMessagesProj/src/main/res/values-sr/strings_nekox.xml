@@ -61,8 +61,8 @@
     <string name="VmessNetwork">Мрежа</string>
     <string name="VmessPath">Path / QUIC кључ</string>
     <string name="ProxyInfoTrojan">Подешавања Trojan проксија</string>
-    <string name="ExportProxies">Извези сервере у фајл</string>
-    <string name="ImportProxies">Увези сервере из фајла</string>
+    <string name="ExportProxies">Извоз сервера у датотеку</string>
+    <string name="ImportProxies">Увоз сервера из датотеке</string>
     <string name="ImportedProxies">Увезени прокси сервери:</string>
     <string name="DisableDeveloperMode">Онемогући режим за програмере</string>
     <string name="NekoXFaq">NekoX ЧПП</string>
@@ -113,7 +113,7 @@
     <string name="LoginSettings">Подешавања пријаве</string>
     <string name="DisableVibration">Онемогући вибрацију</string>
     <string name="UnpinMessageX">Откачи поруку</string>
-    <string name="ArchiveFiles">Архива фајлова</string>
+    <string name="ArchiveFiles">Архива датотека</string>
     <string name="FilterNameUsersDescription">Само поруке из приватних ћаскања</string>
     <string name="FilterNameBotsDescription">Само поруке од ботова</string>
     <string name="NekoXPushService">Услуга обавештења NekoX</string>
@@ -167,8 +167,8 @@
     <string name="TextOrigin">Извор</string>
     <string name="AddProxyVmess">Додај VMess прокси</string>
     <string name="RetestPing">Поново тестирај пинг за све сервере</string>
-    <string name="ImportProxyList">Увези прокси сервере</string>
-    <string name="TransSite">Платформа превода</string>
+    <string name="ImportProxyList">Увоз прокси сервера</string>
+    <string name="TransSite">Платформа за превођење</string>
     <string name="Sign">Потпиши</string>
     <string name="ImportLogin">QR пријава</string>
     <string name="UserRestrictionsSendGames">Шаљи игре</string>
@@ -219,4 +219,65 @@
     <string name="PrivacyNoticeAddByPhone">Нисте искључили „Дозволи проналажење мене преко мог броја телефона”, што омогућава хакерима које контролише влада да пронађу ваш прави идентитет. Молимо, искључите то!</string>
     <string name="PrivacyNotice2fa">Нисте подесили лозинку, што омогућава хакерима које контролише влада да пронађу ваш прави идентитет. Молимо, подесите лозинку!</string>
     <string name="StorageResetInfo">Сви подаци апликације ће бити трајно избрисани (након покушаја да се одјавите са свих налога).</string>
+    <string name="channelAlias">Алијас канала</string>
+    <string name="PinSticker">Закачи</string>
+    <string name="DisplayPersianCalendarByLatin">Прикажи персијски календар латиницом</string>
+    <string name="WsPayload">Payload</string>
+    <string name="AutoLockImmediately">Одмах</string>
+    <string name="update_download_soucre">Избор извора преузимања</string>
+    <string name="useCustomEmojiInvalid">Неважећа ZIP-датотека емоџија.</string>
+    <string name="ImportSettingsAlert">Заменити подешавања? Увоз подешавања из непознатих извора може довести до тога да се PIN препише и апликација закључа.</string>
+    <string name="VersionUpdateConfirm">АЖУРИРАЈ</string>
+    <string name="AutoCheckUpdateSwitch">Аутоматско ажурирање</string>
+    <string name="hideSponsoredMessage">Сакриј спонзорисане поруке</string>
+    <string name="EnableStickerPinTip">Ова функција је у развоју. Синхронизација са облаком можда неће радити.</string>
+    <string name="UsePersiancalendarInfo">Приказ датума са соларним хиџри календаром</string>
+    <string name="VersionUpdateIgnore">Игнориши</string>
+    <string name="DeleteDownloadedFileExternal">Спољна датотека је прескочена.</string>
+    <string name="VersionUpdateTitle">Доступна нова верзија</string>
+    <string name="AutoCheckUpdateStable">Стабилно</string>
+    <string name="customPublicProxyIPNotice">У неким областима навођење IP-а јавног проксија CDN-а (нпр. Cloudflare) може убрзати приступ.</string>
+    <string name="valuesLargeAvatarInDrawer">Telegram подразумевани
+\nАватар као позадина
+\nВелики аватар као позадина</string>
+    <string name="showSeconds">Прикажи временске ознаке у секундама</string>
+    <string name="channelAliasDetails">Захтева да је омогућено „Означи корисника канала”.</string>
+    <string name="UnpinSticker">Откачи</string>
+    <string name="AppLinkFDroid">F-Droid</string>
+    <string name="unreadBadgeOnBackButton">Непрочитана значка на дугмету за назад</string>
+    <string name="repeatConfirmText">Желите ли заиста да поновите?</string>
+    <string name="rememberAllBackMessages">Запамти све додирнуте одговоре</string>
+    <string name="AppUpdateNekoX">Ажурирај Nekogram X</string>
+    <string name="setChannelAliasName">Подеси алијас</string>
+    <string name="AutoCheckUpdatePreview">Преглед (нестабилно)</string>
+    <string name="customPublicProxyIP">Подеси IP јавног проксија</string>
+    <string name="DisableInstantCamera">Онемогући аутоматско покретање камере</string>
+    <string name="EnableStickerPinAbout">Закачите налепнице и синхронизујте са облаком чак и када додајете нове налепнице.
+\nУпарено са „Онемогући омиљено” и „Недавно”.</string>
+    <string name="DeleteDownloadedFileSucceed">Избрисано</string>
+    <string name="ImportSettings">Подешавања увоза</string>
+    <string name="AutoCheckUpdateOFF">Искључено</string>
+    <string name="repeatConfirm">Питај пре понављања</string>
+    <string name="labelChannelUserDetails">Ако је пошиљалац поруке „Канал”, биће означен као „Канал”.</string>
+    <string name="NekoXUpdateTranslationHint">Додирните да бисте превели евиденцију промена</string>
+    <string name="UsePersiancalendar">Користи персијски календар</string>
+    <string name="VersionUpdateNotNow">Не сада</string>
+    <string name="useCustomEmoji">Користи прилагођени емоџи</string>
+    <string name="Name">Име</string>
+    <string name="labelChannelUser">Означи корисника канала</string>
+    <string name="StickerSettings">Налепница</string>
+    <string name="ConfirmSettings">Потврда</string>
+    <string name="InteractionSettings">Интеракција</string>
+    <string name="nekoxPremiumGiftRemoved">Telegram Premium поклон је уклоњен у NekoX.</string>
+    <string name="nekoXPaymentRemovedToast">Функција плаћања је уклоњена.</string>
+    <string name="DeleteDownloadedFileConfirm">Избрисати ову датотеку из локалног кеша?</string>
+    <string name="SetPinnedSuffix">(Закачено)</string>
+    <string name="AddProxyWs">Додај WebSocket Relay</string>
+    <string name="ProxyInfoWS">Подешавања WebSocket Relay</string>
+    <string name="BackupSettings">Подешавања резервне копије</string>
+    <string name="VersionUpdateNoUpdate">Нема ажурирања.</string>
+    <string name="EnableStickerPin">Омогући закачивање налепница</string>
+    <string name="AutoCheckUpdateRc">Кандидат (бета) издање</string>
+    <string name="VersionUpdateVariantNotMatch">Није могуће аутоматско подударање варијанте верзије.
+\nПреузмите ручно са GitHub-а.</string>
 </resources>

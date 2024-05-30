@@ -47,4 +47,11 @@
     <string name="SaveCacheToExternalFilesDirAbout">Захавайце папку \"Telegram\" у спецыяльную папку прыкладання, каб захаваць агульнае сховішча ў парадку.</string>
     <string name="StickerSize">Памер стыкера</string>
     <string name="StickerSizeDialogMessageBigOne">Вялікі</string>
+    <string name="StickerSizeDialogMessageSmallOne">Невялікі</string>
+    <string name="StickerSizeDialogMessageReplyTo">Мяў</string>
+    <string name="UnlimitedFavoredStickers">Безлімітныя любімыя стыкеры</string>
+    <string name="UnlimitedFavoredStickersAbout">Убраць ліміт з колькасці любімых стыкераў. Стыкеры не будуць сінхранізавацца паміж прыладамі.</string>
+    <string name="ExportAsJson">Экспартаваць як JSON</string>
+    <string name="Translate">Пераклад</string>
+    <string name="DeleteAccount">Удаліць Тэлеграм акаўнт</string>
 </resources>

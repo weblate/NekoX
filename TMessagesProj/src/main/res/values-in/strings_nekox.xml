@@ -279,4 +279,7 @@
     <string name="channelAlias">Alias saluran</string>
     <string name="channelAliasDetails">Wajibkan pengguna saluran label diaktifkan.</string>
     <string name="labelChannelUserDetails">jika pengirim pesan adalah channel, Itu akan ditandai sebagai \"Channel\"</string>
+    <string name="ConfirmSettings">Konfirmasi</string>
+    <string name="StickerSettings">Stiker</string>
+    <string name="InteractionSettings">Interaksi</string>
 </resources>

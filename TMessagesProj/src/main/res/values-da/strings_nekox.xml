@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="Install">Installer</string>
+    <string name="Locked">Låst</string>
+    <string name="UpdateLater">Senere</string>
+    <string name="ChatAttachEnterMenuRecordVideo">Optag Video</string>
+    <string name="Ignore">Ignorer</string>
+    <string name="UpdateAvailable">Ny opdatering tilgængelig</string>
+    <string name="NoUpdate">Ingen opdatering fundet</string>
+    <string name="SwitchVersion">Skift Version</string>
+    <string name="ChatAttachEnterMenuRecordAudio">Optag Lyd</string>
+    <string name="UpdateUpdate">Opdater</string>
+</resources>

@@ -10,4 +10,12 @@
     <string name="SwitchVersion">Skift Version</string>
     <string name="ChatAttachEnterMenuRecordAudio">Optag Lyd</string>
     <string name="UpdateUpdate">Opdater</string>
+    <string name="UseDefaultTheme">Brug standardtema *</string>
+    <string name="More">Mere</string>
+    <string name="TapToDisable">Tryk for at deaktivere. Du har ikke brug for dem.</string>
+    <string name="CustomBackend">Brugerdefineret Backend</string>
+    <string name="CustomBackendNotice">Denne funktion er kun for ekspertbrugere. Hvis du ikke ved, hvad de følgende indstillinger gør, så ignorer dem.</string>
+    <string name="NightMode">Nattilstand</string>
+    <string name="PlaceHolder">Pladsholder ‐ Deaktiver Venligst</string>
+    <string name="ChangeTranslateProvider">Skift Udbyder</string>
 </resources>

@@ -3,7 +3,7 @@
     <string name="CustomApiInput">Ручни унос</string>
     <string name="UpdateLater">Касније</string>
     <string name="SwitchVersion">Промени верзију</string>
-    <string name="Ignore">Игнориши</string>
+    <string name="Ignore">Занемари</string>
     <string name="Install">Инсталирај</string>
     <string name="ChatAttachEnterMenuRecordAudio">Сними аудио</string>
     <string name="AccDescrChatAttachEnterMenu">Мени за унос ћаскања</string>
@@ -80,7 +80,7 @@
     <string name="PGPDecrypt">Дешифруј поруку</string>
     <string name="CCTT">Традиционални кинески (Тајван)</string>
     <string name="TabletMode">Режим таблета</string>
-    <string name="IgnoreMutedCount">Игнориши број неутишаних непрочитаних на картици фасцикла</string>
+    <string name="IgnoreMutedCount">Занемари број неутишаних непрочитаних на картици фасцикла</string>
     <string name="SortMenu">Подешавања сортирања дијалога</string>
     <string name="SortByUnmuted">Сортирање по неутишаном</string>
     <string name="AddProxySSR">Додај ShadowsocksR прокси</string>
@@ -102,7 +102,7 @@
     <string name="DeleteUnavailableServer">Избриши недоступне сервере</string>
     <string name="DeveloperSettings">Подешавања за програмере</string>
     <string name="ShareMyKey">Дели мој јавни кључ</string>
-    <string name="IgnoreContentRestrictions">Игнориши ограничења садржаја</string>
+    <string name="IgnoreContentRestrictions">Занемари ограничења садржаја</string>
     <string name="UserRestrictionsSendInline">Шаљи путем усклађених ботова</string>
     <string name="UseProxyItem">Користи прокси ставку на бочној траци уместо дугмета</string>
     <string name="VmessSecurity">Безбедност</string>
@@ -206,7 +206,7 @@
     <string name="FilterNameChannelsDescription">Само поруке из канала</string>
     <string name="CustomBackendProduction">База података званичног основног сервера</string>
     <string name="ImportStickersX">Увоз налепница из датотеке</string>
-    <string name="IgnoreContentRestrictionsNotice">Игнорисање ограничења пуштања у порукама.</string>
+    <string name="IgnoreContentRestrictionsNotice">Занемаривање ограничења пуштања у порукама.</string>
     <string name="SendCommentAfterForward">Пошаљи коментар након прослеђивања</string>
     <string name="ReplaceText">Замени текст</string>
     <string name="DisableTrending">Онемогући у тренду</string>
@@ -232,7 +232,7 @@
     <string name="hideSponsoredMessage">Сакриј спонзорисане поруке</string>
     <string name="EnableStickerPinTip">Ова функција је у развоју. Синхронизација са облаком можда неће радити.</string>
     <string name="UsePersiancalendarInfo">Приказ датума са соларним хиџри календаром</string>
-    <string name="VersionUpdateIgnore">Игнориши</string>
+    <string name="VersionUpdateIgnore">Занемари</string>
     <string name="DeleteDownloadedFileExternal">Спољна датотека је прескочена.</string>
     <string name="VersionUpdateTitle">Доступна нова верзија</string>
     <string name="AutoCheckUpdateStable">Стабилно</string>

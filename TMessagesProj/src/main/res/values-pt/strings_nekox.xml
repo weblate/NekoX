@@ -175,7 +175,7 @@
     <string name="TransToLang">Idioma de destino para tradução</string>
     <string name="GoogleCloudTransKeyNotice">Se você configurar uma chave para o Google Cloud Trans, a API de tradução em nuvem será chamada em vez de enviar um formulário falso para a versão web ao traduzir (mais rápido, estável e economizando tráfego).</string>
     <string name="GoogleCloudTransKey">Chave do Google Cloud Translate</string>
-    <string name="ProviderYandexTranslate">Yandex.Translate</string>
+    <string name="ProviderYandexTranslate">Yandex Translate</string>
     <string name="ChangeTranslateProvider">Alterar Provedor</string>
     <string name="AllowFlashCall">Permitir chamada rápida</string>
     <string name="CustomBackendTestDC">DataCenter Oficial de Teste</string>
@@ -188,7 +188,7 @@
     <string name="LinkedChannelChat">Canal Vinculado</string>
     <string name="LinkedGroupChat">Grupo Vinculado</string>
     <string name="ProxyAutoSwitch">Alternador automático de proxy</string>
-    <string name="UpdateDownloaded">Uma atualização acabou a ser descarregada.</string>
+    <string name="UpdateDownloaded">Uma atualização foi descarregada.</string>
     <string name="Ignore">Ignorar</string>
     <string name="Install">Instalar</string>
     <string name="DownloadFailed">Falha ao descarregar</string>
@@ -255,7 +255,7 @@
     <string name="DeleteDownloadedFileConfirm">Excluir este ficheiro do cache local\?</string>
     <string name="DeleteDownloadedFileSucceed">Excluído</string>
     <string name="DeleteDownloadedFileExternal">O ficheiro externo é ignorado.</string>
-    <string name="repeatConfirmText">Tem certeza de que deseja repetir\?</string>
+    <string name="repeatConfirmText">Tem certeza de que deseja repetir?</string>
     <string name="customPublicProxyIP">Definir IP do proxy público</string>
     <string name="customPublicProxyIPNotice">Em algumas áreas, especificar o IP de um CDN de proxy público (p. ex., Cloudflare) pode acelerar o acesso.</string>
     <string name="update_download_soucre">Selecione a fonte de descarga</string>

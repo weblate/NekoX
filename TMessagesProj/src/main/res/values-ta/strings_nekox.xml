@@ -52,7 +52,7 @@
     <string name="TransInputToLang">மொழிபெயர்ப்பு உள்ளீட்டு இலக்கு மொழி</string>
     <string name="More">மேலும்</string>
     <string name="NekoXUpdatesChannel">நெகோக்ச் சேனலைப் புதுப்பிக்கிறது</string>
-    <string name="ShowIdAndDc">சுயவிவரத்தில் ஐடி / டி.சி.</string>
+    <string name="ShowIdAndDc">சுயவிவரத்தில் ஐடி / டி.சி. காட்டு</string>
     <string name="UseDefaultTheme">இயல்புநிலை கருப்பொருளைப் பயன்படுத்தவும் *</string>
     <string name="NightMode">இரவு முறை</string>
     <string name="PrivacyNotice">தனியுரிமை எச்சரிக்கை</string>
@@ -226,7 +226,7 @@
     <string name="EnableStickerPin">பின்னிங் ச்டிக்கரை இயக்கவும்</string>
     <string name="EnableStickerPinAbout">புதிய ச்டிக்கர்களைச் சேர்க்கும்போது கூட ச்டிக்கர்களை முள் செய்து மேகத்துடன் ஒத்திசைக்கவும்.\n பிடித்த மற்றும் அண்மைக் கால முடக்கு.</string>
     <string name="EnableStickerPinTip">இந்த செயல்பாடு வளர்ச்சியில் உள்ளது. மேகத்துடன் ஒத்திசைப்பது வேலை செய்யாது.</string>
-    <string name="UnpinSticker">Unpin</string>
+    <string name="UnpinSticker">மூள்நீக்கு</string>
     <string name="SetPinnedSuffix">(பின் செய்யப்பட்டது)</string>
     <string name="AppLinkFDroid">எஃப்-டிராய்டு</string>
     <string name="UsePersiancalendar">பாரசீக காலெண்டரைப் பயன்படுத்தவும்</string>
@@ -260,9 +260,9 @@
     <string name="update_download_soucre">பதிவிறக்க மூலத்தைத் தேர்ந்தெடுக்கவும்</string>
     <string name="useCustomEmoji">தனிப்பயன் ஈமோசியைப் பயன்படுத்தவும்</string>
     <string name="useCustomEmojiInvalid">செல்லுபடியாகும் ஈமோசி சிப்-கோப்பு அல்ல.</string>
-    <string name="repeatConfirm">மீண்டும் மீண்டும் கேளுங்கள்</string>
+    <string name="repeatConfirm">மறுநிகழ்வில் கேள்</string>
     <string name="repeatConfirmText">நீங்கள் மீண்டும் செய்ய விரும்புகிறீர்களா?</string>
-    <string name="valuesLargeAvatarInDrawer">தந்தி இயல்புநிலை\n அவதார் பின்னணியாக\n பின்னணியாக பெரிய அவதாரம்</string>
+    <string name="valuesLargeAvatarInDrawer">தந்தி இயல்புநிலை\nஅவதார் பின்னணியாக\nபின்னணியாகப் பெரிய அவதாரம்</string>
     <string name="NekoXUpdateTranslationHint">சேஞ்ச்லாக் மொழிபெயர்க்க அழுத்தவும்</string>
     <string name="Name">பெயர்</string>
     <string name="channelAlias">சேனல் மாற்றுப்பெயர்</string>

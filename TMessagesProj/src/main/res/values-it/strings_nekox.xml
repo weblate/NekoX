@@ -27,7 +27,7 @@
     <string name="DownloadFailed">Download non Riuscito</string>
     <string name="Install">Installa</string>
     <string name="Ignore">Ignora</string>
-    <string name="UpdateDownloaded">È stato appena scaricato un aggiornamento.</string>
+    <string name="UpdateDownloaded">È stato scaricato un aggiornamento.</string>
     <string name="ProxyAutoSwitch">Switch Proxy Automatico</string>
     <string name="LinkedGroupChat">Gruppo Collegato</string>
     <string name="LinkedChannelChat">Canale Collegato</string>
@@ -41,7 +41,7 @@
     <string name="CustomBackendTestDC">Test DataCenter Ufficiale</string>
     <string name="AllowFlashCall">Consenti chiamata veloce</string>
     <string name="ChangeTranslateProvider">Cambia Provider</string>
-    <string name="ProviderYandexTranslate">Yandex</string>
+    <string name="ProviderYandexTranslate">Yandex Translate</string>
     <string name="GoogleCloudTransKey">Google Cloud Chiave di Traduzione</string>
     <string name="GoogleCloudTransKeyNotice">Se si imposta una Chiave Traduzione di Google Cloud, l\'API di traduzione cloud verrà chiamata invece di inviare un modulo falso alla versione web quando si traduce (veloce, stabile e risparmio di traffico).</string>
     <string name="TransToLang">Lingua di destinazione della traduzione</string>
@@ -262,7 +262,7 @@
     <string name="customPublicProxyIP">Imposta IP del proxy pubblico</string>
     <string name="update_download_soucre">Seleziona la fonte del download</string>
     <string name="DeleteDownloadedFileConfirm">Eliminare questo file dalla cache locale\?</string>
-    <string name="repeatConfirmText">Sei sicuro di ripetere\?</string>
+    <string name="repeatConfirmText">Sei sicuro di voler ripetere?</string>
     <string name="DisableInstantCamera">Disabilita fotocamera istantanea</string>
     <string name="showSeconds">Mostra i secondi nell\'orario</string>
     <string name="rememberAllBackMessages">Ricorda tutte le risposte cliccate</string>

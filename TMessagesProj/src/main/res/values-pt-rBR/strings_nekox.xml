@@ -27,7 +27,7 @@
     <string name="DownloadFailed">Falha ao baixar</string>
     <string name="Install">Instalar</string>
     <string name="Ignore">Ignorar</string>
-    <string name="UpdateDownloaded">Uma atualização acabou de ser baixada.</string>
+    <string name="UpdateDownloaded">Uma atualização foi baixada.</string>
     <string name="ProxyAutoSwitch">Alternador automático de proxy</string>
     <string name="LinkedGroupChat">Grupo Vinculado</string>
     <string name="LinkedChannelChat">Canal Vinculado</string>
@@ -41,7 +41,7 @@
     <string name="CustomBackendTestDC">DataCenter Oficial de Teste</string>
     <string name="AllowFlashCall">Permitir chamada rápida</string>
     <string name="ChangeTranslateProvider">Alterar Provedor</string>
-    <string name="ProviderYandexTranslate">Yandex.Translate</string>
+    <string name="ProviderYandexTranslate">Yandex Translate</string>
     <string name="GoogleCloudTransKey">Chave do Google Cloud Translate</string>
     <string name="GoogleCloudTransKeyNotice">Se você configurar uma chave para o Google Cloud Trans, a API de tradução em nuvem será chamada em vez de enviar um formulário falso para a versão web ao traduzir (mais rápido, estável e economizando tráfego).</string>
     <string name="TransToLang">Idioma de destino para tradução</string>
@@ -254,7 +254,7 @@
     <string name="DeleteDownloadedFileSucceed">Excluído</string>
     <string name="DeleteDownloadedFileConfirm">Excluir este arquivo do cache local\?</string>
     <string name="repeatConfirm">Perguntar antes de repetir</string>
-    <string name="repeatConfirmText">Tem certeza de que deseja repetir\?</string>
+    <string name="repeatConfirmText">Tem certeza de que deseja repetir?</string>
     <string name="valuesLargeAvatarInDrawer">Padrão do Telegram
 \nAvatar como plano de fundo
 \nAvatar grande como plano de fundo</string>
